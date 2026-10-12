@@ -1,0 +1,3019 @@
+[
+  {
+    "path": "Home > Group 25 > Connect wallet",
+    "name": "Connect wallet",
+    "characters": "Connect wallet",
+    "box": {
+      "x": 982,
+      "y": 6257,
+      "width": 145,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > Tokens",
+    "name": "Tokens",
+    "characters": "Tokens",
+    "box": {
+      "x": 778,
+      "y": 6257,
+      "width": 64,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > Our team",
+    "name": "Our team",
+    "characters": "Our team",
+    "box": {
+      "x": 555,
+      "y": 6257,
+      "width": 83,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > /",
+    "name": "/",
+    "characters": "/",
+    "box": {
+      "x": 704,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > /",
+    "name": "/",
+    "characters": "/",
+    "box": {
+      "x": 908,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > /",
+    "name": "/",
+    "characters": "/",
+    "box": {
+      "x": 1193,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 25 > Lightpaper",
+    "name": "Lightpaper",
+    "characters": "Lightpaper",
+    "box": {
+      "x": 1267,
+      "y": 6257,
+      "width": 97,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Reimagining social media through the power of the blockchain.",
+    "name": "Reimagining social media through the power of the blockchain.",
+    "characters": "Reimagining social media through the power of the blockchain.",
+    "box": {
+      "x": 173,
+      "y": 344,
+      "width": 553,
+      "height": 162
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 48,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 93.74999237060547,
+      "lineHeightPercentFontSize": 112.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Q1",
+    "name": "Q1",
+    "characters": "Q1",
+    "box": {
+      "x": 173,
+      "y": 2781,
+      "width": 22,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 281.25,
+      "lineHeightPercentFontSize": 337.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.6549019813537598,
+          "b": 0.364705890417099,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Q2",
+    "name": "Q2",
+    "characters": "Q2",
+    "box": {
+      "x": 571,
+      "y": 2781,
+      "width": 23,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 281.25,
+      "lineHeightPercentFontSize": 337.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.6549019813537598,
+          "b": 0.364705890417099,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Q3",
+    "name": "Q3",
+    "characters": "Q3",
+    "box": {
+      "x": 970,
+      "y": 2781,
+      "width": 23,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 281.25,
+      "lineHeightPercentFontSize": 337.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.6549019813537598,
+          "b": 0.364705890417099,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Q4",
+    "name": "Q4",
+    "characters": "Q4",
+    "box": {
+      "x": 1369,
+      "y": 2781,
+      "width": 24,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 281.25,
+      "lineHeightPercentFontSize": 337.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.6549019813537598,
+          "b": 0.364705890417099,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 2021",
+    "name": "2021",
+    "characters": "2021",
+    "box": {
+      "x": 173,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 2021",
+    "name": "2021",
+    "characters": "2021",
+    "box": {
+      "x": 572,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 2021",
+    "name": "2021",
+    "characters": "2021",
+    "box": {
+      "x": 971,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 2021",
+    "name": "2021",
+    "characters": "2021",
+    "box": {
+      "x": 1370,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Team set-up Launch of informational website",
+    "name": "Team set-up Launch of informational website",
+    "characters": "Team set-up\r\nLaunch of informational website",
+    "box": {
+      "x": 208,
+      "y": 2987,
+      "width": 332,
+      "height": 68
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 157.40740966796875,
+      "lineHeightPercentFontSize": 188.88888549804688,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 173,
+      "y": 2989,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 173,
+      "y": 3023,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > Presale and exchange listings Blockchain development and launch Launch of our MVP Influencer agency partnerships Marketing and promotion",
+    "name": "Presale and exchange listings Blockchain development and launch Launch of our MVP Influencer agency partnerships Marketing and promotion",
+    "characters": "Presale and exchange listings\r\nBlockchain development and launch\r\nLaunch of our MVP\r\nInfluencer agency partnerships\r\nMarketing and promotion ",
+    "box": {
+      "x": 606,
+      "y": 2987,
+      "width": 306,
+      "height": 170
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 157.40740966796875,
+      "lineHeightPercentFontSize": 188.88888549804688,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > 04",
+    "name": "04",
+    "characters": "04",
+    "box": {
+      "x": 571,
+      "y": 3091,
+      "width": 16,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > 03",
+    "name": "03",
+    "characters": "03",
+    "box": {
+      "x": 571,
+      "y": 3057,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 571,
+      "y": 3023,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 571,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 12 > 05",
+    "name": "05",
+    "characters": "05",
+    "box": {
+      "x": 571,
+      "y": 3125,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 14 > Mainstream partnerships 500 active creator communities 2Million active community members More Marketing and promotion",
+    "name": "Mainstream partnerships 500 active creator communities 2Million active community members More Marketing and promotion",
+    "characters": "Mainstream partnerships\r\n500 active creator communities\r\n2Million active community members\r\nMore Marketing and promotion",
+    "box": {
+      "x": 1404,
+      "y": 2987,
+      "width": 310,
+      "height": 136
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 157.40740966796875,
+      "lineHeightPercentFontSize": 188.88888549804688,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 14 > 04",
+    "name": "04",
+    "characters": "04",
+    "box": {
+      "x": 1369,
+      "y": 3092,
+      "width": 16,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 14 > 03",
+    "name": "03",
+    "characters": "03",
+    "box": {
+      "x": 1369,
+      "y": 3058,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 14 > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 1369,
+      "y": 3024,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 14 > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 1369,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 13 > Celebrity, Creator and Influencer partnerships Expansion of creator communities on our platform More Marketing and promotion",
+    "name": "Celebrity, Creator and Influencer partnerships Expansion of creator communities on our platform More Marketing and promotion",
+    "characters": "Celebrity, Creator and Influencer partnerships\r\nExpansion of creator communities on our platform\r\nMore Marketing and promotion",
+    "box": {
+      "x": 1005,
+      "y": 2987,
+      "width": 303,
+      "height": 142
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 157.40740966796875,
+      "lineHeightPercentFontSize": 188.88888549804688,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 13 > 03",
+    "name": "03",
+    "characters": "03",
+    "box": {
+      "x": 970,
+      "y": 3097,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 13 > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 970,
+      "y": 3043,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 13 > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 970,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "lineHeightPercent": 236.11109924316406,
+      "lineHeightPercentFontSize": 283.3333435058594,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.13333334028720856,
+          "g": 0.47058823704719543,
+          "b": 0.8313725590705872,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > At Tokners are",
+    "name": "At Tokners are",
+    "characters": "At Tokners are",
+    "box": {
+      "x": 175,
+      "y": 285,
+      "width": 123,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 18,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 250,
+      "lineHeightPercentFontSize": 300,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.131944477558136,
+          "g": 0.4705459177494049,
+          "b": 0.8333333134651184,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > We are creating social media 3.0 with influencers, celebrities and creators being able to launch their own digital currency by simply creating a profile with media content posted as Non fungible Tokens that can be owned and traded on the Tokners network",
+    "name": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch their own digital currency by simply creating a profile with media content posted as Non fungible Tokens that can be owned and traded on the Tokners network",
+    "characters": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch\rtheir own digital currency by simply creating a profile with media content posted as Non fungible\rTokens that can be owned and traded on the Tokners network",
+    "box": {
+      "x": 173,
+      "y": 536,
+      "width": 511,
+      "height": 96
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 2 > Learn More",
+    "name": "Learn More",
+    "characters": "Learn More",
+    "box": {
+      "x": 202,
+      "y": 689,
+      "width": 88,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "HEIGHT",
+      "fontSize": 14,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Sign Up",
+    "name": "Sign Up",
+    "characters": "Sign Up",
+    "box": {
+      "x": 1766,
+      "y": 53,
+      "width": 88,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "HEIGHT",
+      "fontSize": 14,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Connect wallet",
+    "name": "Connect wallet",
+    "characters": "Connect wallet",
+    "box": {
+      "x": 1314,
+      "y": 53,
+      "width": 127,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Tokens",
+    "name": "Tokens",
+    "characters": "Tokens",
+    "box": {
+      "x": 1228,
+      "y": 53,
+      "width": 56,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Our team",
+    "name": "Our team",
+    "characters": "Our team",
+    "box": {
+      "x": 1125,
+      "y": 53,
+      "width": 73,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Lightpaper",
+    "name": "Lightpaper",
+    "characters": "Lightpaper",
+    "box": {
+      "x": 1471,
+      "y": 53,
+      "width": 85,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 14,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Sign In",
+    "name": "Sign In",
+    "characters": "Sign In",
+    "box": {
+      "x": 1656,
+      "y": 53,
+      "width": 51,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textCase": "UPPER",
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 14,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "lineHeightPercent": 100,
+      "lineHeightUnit": "INTRINSIC_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > For Creators",
+    "name": "For Creators",
+    "characters": "For Creators",
+    "box": {
+      "x": 459,
+      "y": 1144,
+      "width": 210,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > Group 15 > Cryptocurrency adoption is at less than 1% of the global world population with some countries and entities actively fighting against its mass adoption and the smartest developers and nerds holding the fort. Bitcoin was the first, and it has since grown to thousands of tokens launched all aiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is to bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So down that even a celebrity can explain it in simple words to their followers and have them download an app, buy into the social currency of their favourite person and watch their investment as is with other cryptocurrency project. We are trying to do to this space what investment apps did for the \"nonexistent retail investors\". We are gamefying digital currency, bringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look.",
+    "name": "Cryptocurrency adoption is at less than 1% of the global world population with some countries and entities actively fighting against its mass adoption and the smartest developers and nerds holding the fort. Bitcoin was the first, and it has since grown to thousands of tokens launched all aiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is to bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So down that even a celebrity can explain it in simple words to their followers and have them download an app, buy into the social currency of their favourite person and watch their investment as is with other cryptocurrency project. We are trying to do to this space what investment apps did for the \"nonexistent retail investors\". We are gamefying digital currency, bringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look.",
+    "characters": "Cryptocurrency adoption is at less than 1% of the global world population with some countries\rand entities actively fighting against its mass adoption and the smartest developers and nerds\rholding the fort. \n\nBitcoin was the first, and it has since grown to thousands of tokens launched all\raiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is\rto bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So\rdown that even a celebrity can explain it in simple words to their followers and have them\rdownload an app, buy into the social currency of their favourite person and watch their\rinvestment as is with other cryptocurrency project. \n\nWe are trying to do to this space what\rinvestment apps did for the \"nonexistent retail investors\". We are gamefying digital currency,\rbringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look. ",
+    "box": {
+      "x": 173,
+      "y": 3708,
+      "width": 644,
+      "height": 344
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > Group 15 > A new digital economy is coming. People would be just as powerful as countries and creators would be paid beyond the peanuts that conventional social media platforms can offer. There would be new markets and advertisers with little to offer would not find home there. Like Kanye said, \"Personalities would become the new currency, and services would be built on top of them\". Well, Kanye didn't exactly say that, but it sounds like something we hope he would say. Currency is digital, it has been that way for a while now, but this time there would be no dead presidents on the money, there would people like you on the money, and you would own it because it would make the most sense in the world.",
+    "name": "A new digital economy is coming. People would be just as powerful as countries and creators would be paid beyond the peanuts that conventional social media platforms can offer. There would be new markets and advertisers with little to offer would not find home there. Like Kanye said, \"Personalities would become the new currency, and services would be built on top of them\". Well, Kanye didn't exactly say that, but it sounds like something we hope he would say. Currency is digital, it has been that way for a while now, but this time there would be no dead presidents on the money, there would people like you on the money, and you would own it because it would make the most sense in the world.",
+    "characters": "A new digital economy is coming. People would be just as powerful as countries and creators\rwould be paid beyond the peanuts that conventional social media platforms can offer. \n\nThere\rwould be new markets and advertisers with little to offer would not find home there. Like Kanye\rsaid, \"Personalities would become the new currency, and services would be built on top of them\".\rWell, Kanye didn't exactly say that, but it sounds like something we hope he would say.\r\n\nCurrency is digital, it has been that way for a while now, but this time there would be no dead\rpresidents on the money, there would people like you on the money, and you would own it\rbecause it would make the most sense in the world.",
+    "box": {
+      "x": 173,
+      "y": 4092,
+      "width": 644,
+      "height": 272
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > Group 15 > Tokners is coming",
+    "name": "Tokners is coming",
+    "characters": "Tokners is coming",
+    "box": {
+      "x": 173,
+      "y": 3634,
+      "width": 306,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 557,
+      "y": 1050,
+      "width": 14,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 374.9999694824219,
+      "lineHeightPercentFontSize": 450,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 10 > Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted.",
+    "name": "Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted.",
+    "characters": "Creators can gain independence through a decentralised digital currency system that is\rdependent on growing and engaging with the community and also their star power. They own\r10-15% of the total value of the tokens minted.",
+    "box": {
+      "x": 242,
+      "y": 1228,
+      "width": 644,
+      "height": 72
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 11 > For Hodlers",
+    "name": "For Hodlers",
+    "characters": "For Hodlers",
+    "box": {
+      "x": 1257,
+      "y": 1144,
+      "width": 197,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 11 > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 1348,
+      "y": 1050,
+      "width": 15,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 12,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 374.9999694824219,
+      "lineHeightPercentFontSize": 450,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 11 > Holding social tokens allows the individual to gain access to benefits including unreleased content, private communities, direct access to celebrity, early-access to tickets and more as well as the ability to trade with other communities in order to gain access to more creator content with early token buyers being the biggest winners as the value of the token increases with more buyers.",
+    "name": "Holding social tokens allows the individual to gain access to benefits including unreleased content, private communities, direct access to celebrity, early-access to tickets and more as well as the ability to trade with other communities in order to gain access to more creator content with early token buyers being the biggest winners as the value of the token increases with more buyers.",
+    "characters": "Holding social tokens allows the individual to gain access to benefits including unreleased\rcontent, private communities, direct access to celebrity, early-access to tickets and more as well\ras the ability to trade with other communities in order to gain access to more creator content with\rearly token buyers being the biggest winners as the value of the token increases with more\rbuyers. ",
+    "box": {
+      "x": 1034,
+      "y": 1228,
+      "width": 644,
+      "height": 120
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > What makes us different?",
+    "name": "What makes us different?",
+    "characters": "What makes us different?",
+    "box": {
+      "x": 306,
+      "y": 2110,
+      "width": 356,
+      "height": 108
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 48,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 93.74999237060547,
+      "lineHeightPercentFontSize": 112.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.9686274528503418,
+          "g": 0.9607843160629272,
+          "b": 0.9764705896377563,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Presale Details",
+    "name": "Presale Details",
+    "characters": "Presale Details",
+    "box": {
+      "x": 793,
+      "y": 4872,
+      "width": 333,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 48,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 93.74999237060547,
+      "lineHeightPercentFontSize": 112.5,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.9686274528503418,
+          "g": 0.9607843160629272,
+          "b": 0.9764705896377563,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > How to buy",
+    "name": "How to buy",
+    "characters": "How to buy",
+    "box": {
+      "x": 862,
+      "y": 5701,
+      "width": 195,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 36,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.9686274528503418,
+          "g": 0.9607843160629272,
+          "b": 0.9764705896377563,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > We would only launch tokens with the express permission of the creators.",
+    "name": "We would only launch tokens with the express permission of the creators.",
+    "characters": "We would only launch tokens with the express permission of the creators. ",
+    "box": {
+      "x": 837,
+      "y": 2124,
+      "width": 645,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage.",
+    "name": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage.",
+    "characters": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage.",
+    "box": {
+      "x": 571,
+      "y": 5785,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",
+    "name": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",
+    "characters": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",
+    "box": {
+      "x": 571,
+      "y": 5849,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Then after you will received your $Tokners to your address within 24hours.",
+    "name": "Then after you will received your $Tokners to your address within 24hours.",
+    "characters": "Then after you will received your $Tokners to your address within 24hours. ",
+    "box": {
+      "x": 571,
+      "y": 5913,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. We would get them on our platform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity.",
+    "name": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. We would get them on our platform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity.",
+    "characters": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. \n\nWe would get them on our\rplatform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity.",
+    "box": {
+      "x": 837,
+      "y": 2174,
+      "width": 600,
+      "height": 216
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Light",
+      "fontStyle": "Light",
+      "fontWeight": 300,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "lineHeightPercent": 125,
+      "lineHeightPercentFontSize": 150,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 17 > Phase One",
+    "name": "Phase One",
+    "characters": "Phase One",
+    "box": {
+      "x": 347,
+      "y": 5136,
+      "width": 162,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 32,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 140.625,
+      "lineHeightPercentFontSize": 168.75,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 17 > 01",
+    "name": "01",
+    "characters": "01",
+    "box": {
+      "x": 264,
+      "y": 5023,
+      "width": 330,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 288,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": []
+  },
+  {
+    "path": "Home > Group 17 > 03",
+    "name": "03",
+    "characters": "03",
+    "box": {
+      "x": 1319,
+      "y": 5023,
+      "width": 346,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 288,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": []
+  },
+  {
+    "path": "Home > Group 17 > 0/04/2021 - 16/04/2021",
+    "name": "0/04/2021 - 16/04/2021",
+    "characters": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 336,
+      "y": 5194,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 17 > Group 16 > Soft cap: 5000 BNB",
+    "name": "Soft cap: 5000 BNB",
+    "characters": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 356,
+      "y": 5324,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 17 > Group 16 > Hard cap: 10000 BNB",
+    "name": "Hard cap: 10000 BNB",
+    "characters": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 348,
+      "y": 5354,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 17 > Group 16 > 1 BNB = 100000 Tokners",
+    "name": "1 BNB = 100000 Tokners",
+    "characters": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 313,
+      "y": 5284,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 20,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 19 > Phase Three",
+    "name": "Phase Three",
+    "characters": "Phase Three",
+    "box": {
+      "x": 1397,
+      "y": 5136,
+      "width": 186,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 32,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 140.625,
+      "lineHeightPercentFontSize": 168.75,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 19 > 0/04/2021 - 16/04/2021",
+    "name": "0/04/2021 - 16/04/2021",
+    "characters": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 1398,
+      "y": 5194,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 19 > Group 16 > Soft cap: 5000 BNB",
+    "name": "Soft cap: 5000 BNB",
+    "characters": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 1418,
+      "y": 5324,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 19 > Group 16 > Hard cap: 10000 BNB",
+    "name": "Hard cap: 10000 BNB",
+    "characters": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 1410,
+      "y": 5354,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 19 > Group 16 > 1 BNB = 100000 Tokners",
+    "name": "1 BNB = 100000 Tokners",
+    "characters": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 1375,
+      "y": 5284,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 20,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 20 > 02",
+    "name": "02",
+    "characters": "02",
+    "box": {
+      "x": 786.9999389648438,
+      "y": 5082.9990234375,
+      "width": 349,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Bold",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 288,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": []
+  },
+  {
+    "path": "Home > Group 20 > Group 18 > Phase Two",
+    "name": "Phase Two",
+    "characters": "Phase Two",
+    "box": {
+      "x": 879,
+      "y": 5195.9990234375,
+      "width": 161,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 32,
+      "textAlignHorizontal": "LEFT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "lineHeightPercent": 140.625,
+      "lineHeightPercentFontSize": 168.75,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 20 > Group 18 > 0/04/2021 - 16/04/2021",
+    "name": "0/04/2021 - 16/04/2021",
+    "characters": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 868,
+      "y": 5253.9990234375,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 20 > Group 18 > Group 16 > Soft cap: 5000 BNB",
+    "name": "Soft cap: 5000 BNB",
+    "characters": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 888,
+      "y": 5383.9990234375,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 20 > Group 18 > Group 16 > Hard cap: 10000 BNB",
+    "name": "Hard cap: 10000 BNB",
+    "characters": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 880,
+      "y": 5413.9990234375,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 16,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 104.16666412353516,
+      "lineHeightPercentFontSize": 125,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 20 > Group 18 > Group 16 > 1 BNB = 100000 Tokners",
+    "name": "1 BNB = 100000 Tokners",
+    "characters": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 845,
+      "y": 5343.9990234375,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "fontSize": 20,
+      "textAlignHorizontal": "CENTER",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "lineHeightPercent": 83.33332824707031,
+      "lineHeightPercentFontSize": 100,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 0.09803921729326248,
+          "g": 0.10588235408067703,
+          "b": 0.12941177189350128,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 22 > Group 21 > Design by Oleg Kulik",
+    "name": "Design by Oleg Kulik",
+    "characters": "Design by Oleg Kulik",
+    "box": {
+      "x": 1626,
+      "y": 6425,
+      "width": 121,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Medium",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "textAutoResize": "WIDTH_AND_HEIGHT",
+      "textDecoration": "UNDERLINE",
+      "fontSize": 12,
+      "textAlignHorizontal": "RIGHT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0.24,
+      "lineHeightPx": 16.799999237060547,
+      "lineHeightPercent": 116.66666412353516,
+      "lineHeightPercentFontSize": 140,
+      "lineHeightUnit": "FONT_SIZE_%"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  },
+  {
+    "path": "Home > Group 22 > © 2021 Tokners. All rights reserved.",
+    "name": "© 2021 Tokners. All rights reserved.",
+    "characters": "© 2021 Tokners. All rights reserved.",
+    "box": {
+      "x": 1317,
+      "y": 6400,
+      "width": 430,
+      "height": 22
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontPostScriptName": "AzoSans-Regular",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "textAutoResize": "HEIGHT",
+      "fontSize": 14,
+      "textAlignHorizontal": "RIGHT",
+      "textAlignVertical": "TOP",
+      "letterSpacing": 0,
+      "lineHeightPx": 22,
+      "lineHeightPercent": 130.95237731933594,
+      "lineHeightPercentFontSize": 157.14285278320312,
+      "lineHeightUnit": "PIXELS"
+    },
+    "fills": [
+      {
+        "blendMode": "NORMAL",
+        "type": "SOLID",
+        "color": {
+          "r": 1,
+          "g": 1,
+          "b": 1,
+          "a": 1
+        }
+      }
+    ]
+  }
+]

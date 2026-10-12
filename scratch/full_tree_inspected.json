@@ -1,0 +1,5670 @@
+{
+  "id": "1:11",
+  "name": "Home",
+  "type": "FRAME",
+  "box": {
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 6617
+  },
+  "fills": [
+    {
+      "type": "SOLID",
+      "color": "#f7f5f9",
+      "rgba": "rgba(247, 245, 249, 1)"
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "effects": [],
+  "children": [
+    {
+      "id": "1:12",
+      "name": "Rectangle 10",
+      "type": "VECTOR",
+      "box": {
+        "x": 0,
+        "y": 5888,
+        "width": 1920,
+        "height": 729
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#1d1534",
+          "rgba": "rgba(29, 21, 52, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:13",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": -41,
+        "y": 4429,
+        "width": 2003,
+        "height": 1708
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#1d1534",
+          "rgba": "rgba(29, 21, 52, 1)"
+        },
+        {
+          "type": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "pos": 0,
+              "color": "rgba(237, 55, 77, 1)"
+            },
+            {
+              "pos": 0.5052083134651184,
+              "color": "rgba(250, 121, 63, 1)"
+            },
+            {
+              "pos": 1,
+              "color": "rgba(247, 246, 81, 1)"
+            }
+          ]
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:14",
+      "name": "Group 25",
+      "type": "GROUP",
+      "box": {
+        "x": 555,
+        "y": 6257,
+        "width": 809,
+        "height": 19
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:15",
+          "name": "Connect wallet",
+          "type": "TEXT",
+          "box": {
+            "x": 982,
+            "y": 6257,
+            "width": 145,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Connect wallet"
+        },
+        {
+          "id": "1:16",
+          "name": "Tokens",
+          "type": "TEXT",
+          "box": {
+            "x": 778,
+            "y": 6257,
+            "width": 64,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Tokens"
+        },
+        {
+          "id": "1:17",
+          "name": "Our team",
+          "type": "TEXT",
+          "box": {
+            "x": 555,
+            "y": 6257,
+            "width": 83,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Our team"
+        },
+        {
+          "id": "1:18",
+          "name": "/",
+          "type": "TEXT",
+          "box": {
+            "x": 704,
+            "y": 6257,
+            "width": 8,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "/"
+        },
+        {
+          "id": "1:19",
+          "name": "/",
+          "type": "TEXT",
+          "box": {
+            "x": 908,
+            "y": 6257,
+            "width": 8,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "/"
+        },
+        {
+          "id": "1:20",
+          "name": "/",
+          "type": "TEXT",
+          "box": {
+            "x": 1193,
+            "y": 6257,
+            "width": 8,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "/"
+        },
+        {
+          "id": "1:21",
+          "name": "Lightpaper",
+          "type": "TEXT",
+          "box": {
+            "x": 1267,
+            "y": 6257,
+            "width": 97,
+            "height": 19
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 700,
+            "letterSpacing": -0.32,
+            "lineHeightPx": 19.200000762939453,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Lightpaper"
+        }
+      ]
+    },
+    {
+      "id": "1:22",
+      "name": "Subtract",
+      "type": "VECTOR",
+      "box": {
+        "x": -41.99998092651367,
+        "y": 3131,
+        "width": 2003.12890625,
+        "height": 1618
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#f2f0f4",
+          "rgba": "rgba(242, 240, 244, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:23",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": -41,
+        "y": 1963,
+        "width": 2003,
+        "height": 678
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#1d1534",
+          "rgba": "rgba(29, 21, 52, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:24",
+      "name": "Rectangle 5",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 970,
+        "y": 3549,
+        "width": 777,
+        "height": 900
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#f7f5f9",
+          "rgba": "rgba(247, 245, 249, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 25,
+      "effects": []
+    },
+    {
+      "id": "1:25",
+      "name": "image 21",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 802.9999610105369,
+        "y": 3750.86962890625,
+        "width": 678.0733984563594,
+        "height": 678.0733984563594
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "f2239d3f29e9a29a789287c179095097941ea5ad"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "radius": 100,
+          "offset": {
+            "x": 40,
+            "y": 40
+          },
+          "color": "rgba(0, 0, 0, 0.1)"
+        }
+      ]
+    },
+    {
+      "id": "1:26",
+      "name": "logo_colored_sign_black_text",
+      "type": "FRAME",
+      "box": {
+        "x": 40,
+        "y": 45,
+        "width": 219,
+        "height": 35
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:27",
+          "name": "Group 3",
+          "type": "GROUP",
+          "box": {
+            "x": 40,
+            "y": 45.5001220703125,
+            "width": 55.31541061401367,
+            "height": 34.49993133544922
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:28",
+              "name": "Vector 1",
+              "type": "VECTOR",
+              "box": {
+                "x": 40,
+                "y": 57.449745178222656,
+                "width": 21.393739700317383,
+                "height": 22.55015754699707
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(98, 117, 246, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(130, 232, 254, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:29",
+              "name": "Vector 3",
+              "type": "VECTOR",
+              "box": {
+                "x": 61.393802642822266,
+                "y": 51.667659759521484,
+                "width": 22.164684295654297,
+                "height": 28.33224868774414
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(195, 26, 98, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(239, 8, 32, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:30",
+              "name": "Vector 2",
+              "type": "VECTOR",
+              "box": {
+                "x": 50.985939025878906,
+                "y": 51.667659759521484,
+                "width": 20.815528869628906,
+                "height": 28.33224868774414
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(140, 49, 162, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(191, 27, 102, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:31",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 50.985992431640625,
+                "y": 67.82029724121094,
+                "width": 10.407764434814453,
+                "height": 12.179570198059082
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(98, 112, 244, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(132, 235, 253, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:32",
+              "name": "Vector 4",
+              "type": "VECTOR",
+              "box": {
+                "x": 72.95799255371094,
+                "y": 45.5001220703125,
+                "width": 22.357421875,
+                "height": 34.499813079833984
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(248, 230, 76, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(235, 62, 73, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:33",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 72.95797729492188,
+                "y": 66.07647705078125,
+                "width": 10.600502014160156,
+                "height": 13.923575401306152
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(255, 52, 76, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(255, 111, 91, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            }
+          ]
+        },
+        {
+          "id": "1:34",
+          "name": "Tokners",
+          "type": "VECTOR",
+          "box": {
+            "x": 104.39151000976562,
+            "y": 54.33333206176758,
+            "width": 148.68585205078125,
+            "height": 25.666667938232422
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0.8557074069976807,
+          "effects": []
+        }
+      ]
+    },
+    {
+      "id": "1:35",
+      "name": "Reimagining social media through the power of the blockchain.",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 344,
+        "width": 553,
+        "height": 162
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 48,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Reimagining social media through the power of the blockchain."
+    },
+    {
+      "id": "1:36",
+      "name": "Q1",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 2781,
+        "width": 22,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#22a75d",
+          "rgba": "rgba(34, 167, 93, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Q1"
+    },
+    {
+      "id": "1:37",
+      "name": "Q2",
+      "type": "TEXT",
+      "box": {
+        "x": 571,
+        "y": 2781,
+        "width": 23,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#22a75d",
+          "rgba": "rgba(34, 167, 93, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Q2"
+    },
+    {
+      "id": "1:38",
+      "name": "Q3",
+      "type": "TEXT",
+      "box": {
+        "x": 970,
+        "y": 2781,
+        "width": 23,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#22a75d",
+          "rgba": "rgba(34, 167, 93, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Q3"
+    },
+    {
+      "id": "1:39",
+      "name": "Q4",
+      "type": "TEXT",
+      "box": {
+        "x": 1369,
+        "y": 2781,
+        "width": 24,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#22a75d",
+          "rgba": "rgba(34, 167, 93, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Q4"
+    },
+    {
+      "id": "1:40",
+      "name": "2021",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 2818,
+        "width": 83,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 36,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "2021"
+    },
+    {
+      "id": "1:41",
+      "name": "2021",
+      "type": "TEXT",
+      "box": {
+        "x": 572,
+        "y": 2818,
+        "width": 83,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 36,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "2021"
+    },
+    {
+      "id": "1:42",
+      "name": "2021",
+      "type": "TEXT",
+      "box": {
+        "x": 971,
+        "y": 2818,
+        "width": 83,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 36,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "2021"
+    },
+    {
+      "id": "1:43",
+      "name": "2021",
+      "type": "TEXT",
+      "box": {
+        "x": 1370,
+        "y": 2818,
+        "width": 83,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 36,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "2021"
+    },
+    {
+      "id": "1:44",
+      "name": "Team set-up Launch of informational website",
+      "type": "TEXT",
+      "box": {
+        "x": 208,
+        "y": 2987,
+        "width": 332,
+        "height": 68
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 18,
+        "fontWeight": 400,
+        "letterSpacing": 0,
+        "lineHeightPx": 34,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Team set-up\r\nLaunch of informational website"
+    },
+    {
+      "id": "1:45",
+      "name": "01",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 2989,
+        "width": 14,
+        "height": 34
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#2278d4",
+          "rgba": "rgba(34, 120, 212, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 12,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 34,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "01"
+    },
+    {
+      "id": "1:46",
+      "name": "02",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 3023,
+        "width": 15,
+        "height": 34
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#2278d4",
+          "rgba": "rgba(34, 120, 212, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 12,
+        "fontWeight": 700,
+        "letterSpacing": 0,
+        "lineHeightPx": 34,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "02"
+    },
+    {
+      "id": "1:47",
+      "name": "Group 12",
+      "type": "GROUP",
+      "box": {
+        "x": 571,
+        "y": 2987,
+        "width": 341,
+        "height": 172
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:48",
+          "name": "Presale and exchange listings Blockchain development and launch Launch of our MVP Influencer agency partnerships Marketing and promotion",
+          "type": "TEXT",
+          "box": {
+            "x": 606,
+            "y": 2987,
+            "width": 306,
+            "height": 170
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 18,
+            "fontWeight": 400,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Presale and exchange listings\r\nBlockchain development and launch\r\nLaunch of our MVP\r\nInfluencer agency partnerships\r\nMarketing and promotion "
+        },
+        {
+          "id": "1:49",
+          "name": "04",
+          "type": "TEXT",
+          "box": {
+            "x": 571,
+            "y": 3091,
+            "width": 16,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "04"
+        },
+        {
+          "id": "1:50",
+          "name": "03",
+          "type": "TEXT",
+          "box": {
+            "x": 571,
+            "y": 3057,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "03"
+        },
+        {
+          "id": "1:51",
+          "name": "02",
+          "type": "TEXT",
+          "box": {
+            "x": 571,
+            "y": 3023,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "02"
+        },
+        {
+          "id": "1:52",
+          "name": "01",
+          "type": "TEXT",
+          "box": {
+            "x": 571,
+            "y": 2990,
+            "width": 14,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "01"
+        },
+        {
+          "id": "1:53",
+          "name": "05",
+          "type": "TEXT",
+          "box": {
+            "x": 571,
+            "y": 3125,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "05"
+        }
+      ]
+    },
+    {
+      "id": "1:54",
+      "name": "Group 14",
+      "type": "GROUP",
+      "box": {
+        "x": 1369,
+        "y": 2987,
+        "width": 345,
+        "height": 139
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:55",
+          "name": "Mainstream partnerships 500 active creator communities 2Million active community members More Marketing and promotion",
+          "type": "TEXT",
+          "box": {
+            "x": 1404,
+            "y": 2987,
+            "width": 310,
+            "height": 136
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 18,
+            "fontWeight": 400,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Mainstream partnerships\r\n500 active creator communities\r\n2Million active community members\r\nMore Marketing and promotion"
+        },
+        {
+          "id": "1:56",
+          "name": "04",
+          "type": "TEXT",
+          "box": {
+            "x": 1369,
+            "y": 3092,
+            "width": 16,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "04"
+        },
+        {
+          "id": "1:57",
+          "name": "03",
+          "type": "TEXT",
+          "box": {
+            "x": 1369,
+            "y": 3058,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "03"
+        },
+        {
+          "id": "1:58",
+          "name": "02",
+          "type": "TEXT",
+          "box": {
+            "x": 1369,
+            "y": 3024,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "02"
+        },
+        {
+          "id": "1:59",
+          "name": "01",
+          "type": "TEXT",
+          "box": {
+            "x": 1369,
+            "y": 2990,
+            "width": 14,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "01"
+        }
+      ]
+    },
+    {
+      "id": "1:60",
+      "name": "Group 13",
+      "type": "GROUP",
+      "box": {
+        "x": 970,
+        "y": 2987,
+        "width": 338,
+        "height": 144
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:61",
+          "name": "Celebrity, Creator and Influencer partnerships Expansion of creator communities on our platform More Marketing and promotion",
+          "type": "TEXT",
+          "box": {
+            "x": 1005,
+            "y": 2987,
+            "width": 303,
+            "height": 142
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 18,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Celebrity, Creator and Influencer partnerships\r\nExpansion of creator communities on our platform\r\nMore Marketing and promotion"
+        },
+        {
+          "id": "1:62",
+          "name": "03",
+          "type": "TEXT",
+          "box": {
+            "x": 970,
+            "y": 3097,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "03"
+        },
+        {
+          "id": "1:63",
+          "name": "02",
+          "type": "TEXT",
+          "box": {
+            "x": 970,
+            "y": 3043,
+            "width": 15,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "02"
+        },
+        {
+          "id": "1:64",
+          "name": "01",
+          "type": "TEXT",
+          "box": {
+            "x": 970,
+            "y": 2990,
+            "width": 14,
+            "height": 34
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#2278d4",
+              "rgba": "rgba(34, 120, 212, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 34,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "01"
+        }
+      ]
+    },
+    {
+      "id": "1:65",
+      "name": "At Tokners are",
+      "type": "TEXT",
+      "box": {
+        "x": 175,
+        "y": 285,
+        "width": 123,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#2278d4",
+          "rgba": "rgba(34, 120, 212, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 18,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "At Tokners are"
+    },
+    {
+      "id": "1:66",
+      "name": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch their own digital currency by simply creating a profile with media content posted as Non fungible Tokens that can be owned and traded on the Tokners network",
+      "type": "TEXT",
+      "box": {
+        "x": 173,
+        "y": 536,
+        "width": 511,
+        "height": 96
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "letterSpacing": 0,
+        "lineHeightPx": 24,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch\rtheir own digital currency by simply creating a profile with media content posted as Non fungible\rTokens that can be owned and traded on the Tokners network"
+    },
+    {
+      "id": "1:67",
+      "name": "Group 2",
+      "type": "GROUP",
+      "box": {
+        "x": 173,
+        "y": 672,
+        "width": 147,
+        "height": 48
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 52,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:68",
+          "name": "Rectangle 1",
+          "type": "RECTANGLE",
+          "box": {
+            "x": 173,
+            "y": 672,
+            "width": 147,
+            "height": 48
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#22a75d",
+              "rgba": "rgba(34, 167, 93, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 2,
+          "cornerRadius": 52,
+          "effects": []
+        },
+        {
+          "id": "1:69",
+          "name": "Learn More",
+          "type": "TEXT",
+          "box": {
+            "x": 202,
+            "y": 689,
+            "width": 88,
+            "height": 17
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 14,
+            "fontWeight": 700,
+            "letterSpacing": -0.28,
+            "lineHeightPx": 16.80000114440918,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "Learn More"
+        }
+      ]
+    },
+    {
+      "id": "1:70",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": -259.6250915527344,
+        "y": 1428.9571533203125,
+        "width": 2492.7099609375,
+        "height": 926.685546875
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#1d1534",
+          "rgba": "rgba(29, 21, 52, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:71",
+      "name": "Group 3",
+      "type": "GROUP",
+      "box": {
+        "x": 173,
+        "y": 2112,
+        "width": 55.31541061401367,
+        "height": 34.49993133544922
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:72",
+          "name": "Vector 1",
+          "type": "VECTOR",
+          "box": {
+            "x": 173,
+            "y": 2123.94970703125,
+            "width": 21.393739700317383,
+            "height": 22.55015754699707
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(98, 117, 246, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(130, 232, 254, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:73",
+          "name": "Vector 3",
+          "type": "VECTOR",
+          "box": {
+            "x": 194.393798828125,
+            "y": 2118.16748046875,
+            "width": 22.164684295654297,
+            "height": 28.33224868774414
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(195, 26, 98, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(239, 8, 32, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:74",
+          "name": "Vector 2",
+          "type": "VECTOR",
+          "box": {
+            "x": 183.9859390258789,
+            "y": 2118.16748046875,
+            "width": 20.815528869628906,
+            "height": 28.33224868774414
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(140, 49, 162, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(191, 27, 102, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:75",
+          "name": "Vector",
+          "type": "VECTOR",
+          "box": {
+            "x": 183.98599243164062,
+            "y": 2134.320068359375,
+            "width": 10.407764434814453,
+            "height": 12.179570198059082
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(98, 112, 244, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(132, 235, 253, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:76",
+          "name": "Vector 4",
+          "type": "VECTOR",
+          "box": {
+            "x": 205.95799255371094,
+            "y": 2112,
+            "width": 22.357421875,
+            "height": 34.499813079833984
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(248, 230, 76, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(235, 62, 73, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:77",
+          "name": "Vector",
+          "type": "VECTOR",
+          "box": {
+            "x": 205.95797729492188,
+            "y": 2132.576416015625,
+            "width": 10.600502014160156,
+            "height": 13.923575401306152
+          },
+          "fills": [
+            {
+              "type": "GRADIENT_LINEAR",
+              "stops": [
+                {
+                  "pos": 0,
+                  "color": "rgba(255, 52, 76, 1)"
+                },
+                {
+                  "pos": 1,
+                  "color": "rgba(255, 111, 91, 1)"
+                }
+              ]
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        }
+      ]
+    },
+    {
+      "id": "1:78",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": 359,
+        "y": -674.8135375976562,
+        "width": 2868.9240333686466,
+        "height": 2394.5470429776833
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#000000",
+          "rgba": "rgba(0, 0, 0, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:79",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": 496.99997905269265,
+        "y": -619.6340942382812,
+        "width": 2399.40090762575,
+        "height": 2344.1881177961477
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#000000",
+          "rgba": "rgba(0, 0, 0, 1)"
+        },
+        {
+          "type": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "pos": 0,
+              "color": "rgba(237, 55, 77, 1)"
+            },
+            {
+              "pos": 0.5052083134651184,
+              "color": "rgba(250, 121, 63, 1)"
+            },
+            {
+              "pos": 1,
+              "color": "rgba(247, 246, 81, 1)"
+            }
+          ]
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:80",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": 595.0893835239112,
+        "y": -1097.8343505859375,
+        "width": 1849.323299005846,
+        "height": 2493.5303804741125
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#000000",
+          "rgba": "rgba(0, 0, 0, 1)"
+        },
+        {
+          "type": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "pos": 0,
+              "color": "rgba(237, 55, 77, 1)"
+            },
+            {
+              "pos": 0.5052083134651184,
+              "color": "rgba(250, 121, 63, 1)"
+            },
+            {
+              "pos": 1,
+              "color": "rgba(247, 246, 81, 1)"
+            }
+          ]
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:81",
+      "name": "Vector",
+      "type": "VECTOR",
+      "box": {
+        "x": 832.1607883302495,
+        "y": -628.4529418945312,
+        "width": 2120.7969753416255,
+        "height": 2559.656232865673
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#000000",
+          "rgba": "rgba(0, 0, 0, 1)"
+        },
+        {
+          "type": "GRADIENT_LINEAR",
+          "stops": [
+            {
+              "pos": 0,
+              "color": "rgba(237, 55, 77, 1)"
+            },
+            {
+              "pos": 0.5052083134651184,
+              "color": "rgba(250, 121, 63, 1)"
+            },
+            {
+              "pos": 1,
+              "color": "rgba(247, 246, 81, 1)"
+            }
+          ]
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:82",
+      "name": "image 7",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1287,
+        "y": 119,
+        "width": 747,
+        "height": 775
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "6d16bbda9edcd672c4f2ecda9e33038ed4eab81d"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:83",
+      "name": "image 24",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1103,
+        "y": 119,
+        "width": 442,
+        "height": 785
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "cc84592360498ade63841ca7976302328f1e51d2"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:84",
+      "name": "Rectangle 2",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1737,
+        "y": 36,
+        "width": 147,
+        "height": 48
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 2,
+      "cornerRadius": 52,
+      "effects": []
+    },
+    {
+      "id": "1:85",
+      "name": "Sign Up",
+      "type": "TEXT",
+      "box": {
+        "x": 1766,
+        "y": 53,
+        "width": 88,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#191b21",
+          "rgba": "rgba(25, 27, 33, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "CENTER"
+      },
+      "characters": "Sign Up"
+    },
+    {
+      "id": "1:86",
+      "name": "Connect wallet",
+      "type": "TEXT",
+      "box": {
+        "x": 1314,
+        "y": 53,
+        "width": 127,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Connect wallet"
+    },
+    {
+      "id": "1:87",
+      "name": "Tokens",
+      "type": "TEXT",
+      "box": {
+        "x": 1228,
+        "y": 53,
+        "width": 56,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Tokens"
+    },
+    {
+      "id": "1:88",
+      "name": "Our team",
+      "type": "TEXT",
+      "box": {
+        "x": 1125,
+        "y": 53,
+        "width": 73,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Our team"
+    },
+    {
+      "id": "1:89",
+      "name": "Lightpaper",
+      "type": "TEXT",
+      "box": {
+        "x": 1471,
+        "y": 53,
+        "width": 85,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Lightpaper"
+    },
+    {
+      "id": "1:90",
+      "name": "Sign In",
+      "type": "TEXT",
+      "box": {
+        "x": 1656,
+        "y": 53,
+        "width": 51,
+        "height": 17
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "letterSpacing": -0.28,
+        "lineHeightPx": 16.80000114440918,
+        "textAlignHorizontal": "CENTER"
+      },
+      "characters": "Sign In"
+    },
+    {
+      "id": "1:91",
+      "name": "Group 10",
+      "type": "GROUP",
+      "box": {
+        "x": 173,
+        "y": 1010,
+        "width": 777,
+        "height": 3354
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:92",
+          "name": "Rectangle 4",
+          "type": "RECTANGLE",
+          "box": {
+            "x": 173,
+            "y": 1010,
+            "width": 777,
+            "height": 930
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#f2f0f4",
+              "rgba": "rgba(242, 240, 244, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 25,
+          "effects": []
+        },
+        {
+          "id": "1:93",
+          "name": "Mask Group",
+          "type": "GROUP",
+          "box": {
+            "x": 173,
+            "y": 1010,
+            "width": 777,
+            "height": 930
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:94",
+              "name": "Rectangle 6",
+              "type": "RECTANGLE",
+              "box": {
+                "x": 173,
+                "y": 1010,
+                "width": 777,
+                "height": 930
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#f2f0f4",
+                  "rgba": "rgba(242, 240, 244, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "cornerRadius": 25,
+              "effects": []
+            },
+            {
+              "id": "1:95",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": -453.4193166551413,
+                "y": 1176.9998931699229,
+                "width": 2817.7625286761104,
+                "height": 1901.3365326113271
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#000000",
+                  "rgba": "rgba(0, 0, 0, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:96",
+              "name": "Group 9",
+              "type": "GROUP",
+              "box": {
+                "x": 350,
+                "y": 1367,
+                "width": 507.2810363769531,
+                "height": 776.9752807617188
+              },
+              "fills": [],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:97",
+                  "name": "glossy",
+                  "type": "GROUP",
+                  "box": {
+                    "x": 350,
+                    "y": 1367,
+                    "width": 507.2810363769531,
+                    "height": 776.9752807617188
+                  },
+                  "fills": [],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "effects": [],
+                  "children": [
+                    {
+                      "id": "1:98",
+                      "name": "body",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 435.21649169921875,
+                        "y": 1385.4287109375,
+                        "width": 259.3072204589844,
+                        "height": 709.9238891601562
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:99",
+                          "name": "mask",
+                          "type": "RECTANGLE",
+                          "box": "@{x=435.21649169921875; y=1385.42871093750; width=259.30722045898438; height=709.92388916015625}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:100",
+                          "name": "body",
+                          "type": "RECTANGLE",
+                          "box": "@{x=435.21649169921875; y=1385.42871093750; width=259.30722045898438; height=709.92388916015625}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:101",
+                          "name": "body_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=435.21649169921875; y=1385.42871093750; width=259.30722045898438; height=709.92388916015625}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:102",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=421.82659912109375; y=1342.4456787109375; width=297.00543212890625; height=770.52288818359375}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:103",
+                      "name": "shoes_btm",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 477.4970703125,
+                        "y": 2085.490234375,
+                        "width": 169.81809997558594,
+                        "height": 58.48505401611328
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:104",
+                          "name": "mask",
+                          "type": "RECTANGLE",
+                          "box": "@{x=477.49707031250; y=2085.4902343750; width=169.81809997558594; height=58.485054016113281}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:105",
+                          "name": "shoes_btm",
+                          "type": "RECTANGLE",
+                          "box": "@{x=477.49707031250; y=2085.4902343750; width=169.81809997558594; height=58.485054016113281}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:106",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=476.08566284179688; y=2083.377441406250; width=171.57965087890625; height=62.7128906250}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:107",
+                      "name": "shoes",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 476.09515380859375,
+                        "y": 2071.74609375,
+                        "width": 171.57965087890625,
+                        "height": 61.30514907836914
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:108",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=476.09515380859375; y=2071.746093750; width=171.57965087890625; height=61.305149078369141}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:111",
+                          "name": "shoes_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=480.67443847656250; y=2074.5603027343750; width=162.41932678222656; height=53.904899597167969}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:112",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=476.09552001953125; y=2071.7453613281250; width=171.57965087890625; height=59.542007446289062}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:113",
+                      "name": "socks",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 483.65460205078125,
+                        "y": 1996.526123046875,
+                        "width": 149.20733642578125,
+                        "height": 93.41172790527344
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:114",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=483.65460205078125; y=1996.5261230468750; width=149.20733642578125; height=93.411727905273438}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:117",
+                          "name": "socks_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=498.63461303710938; y=1997.7593994140625; width=124.36882781982422; height=102.87731170654297}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:118",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=483.48144531250; y=1985.7796630859375; width=162.77162170410156; height=129.30130004882812}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:119",
+                      "name": "pants",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 470.79864501953125,
+                        "y": 1735.984619140625,
+                        "width": 178.97836303710938,
+                        "height": 206.4592742919922
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:120",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=470.79864501953125; y=1735.9846191406250; width=178.97836303710938; height=206.45927429199219}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:123",
+                          "name": "pants_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=471.85870361328125; y=1740.21191406250; width=176.86444091796875; height=197.65129089355469}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:124",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=470.79989624023438; y=1735.9846191406250; width=178.97836303710938; height=206.45927429199219}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:125",
+                      "name": "t-shirt",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 428.51898193359375,
+                        "y": 1542.21142578125,
+                        "width": 266.8751220703125,
+                        "height": 231.4739990234375
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:126",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=428.51898193359375; y=1542.211425781250; width=266.87512207031250; height=231.47399902343750}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:129",
+                          "name": "t-shirt_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=432.0446777343750; y=1546.4401855468750; width=257.54562377929688; height=223.0183105468750}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:130",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=428.51812744140625; y=1542.2110595703125; width=264.23971557617188; height=231.47399902343750}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:131",
+                      "name": "glossy",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 462.9505310058594,
+                        "y": 1515.2308963303951,
+                        "width": 184.43074824483892,
+                        "height": 232.7248396038501
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:132",
+                          "name": "base",
+                          "type": "GROUP",
+                          "box": "@{x=462.95053100585938; y=1515.2308963303951; width=184.43074824483892; height=232.72483960385011}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:136",
+                          "name": "charts",
+                          "type": "GROUP",
+                          "box": "@{x=494.39801025390625; y=1588.9782852797080; width=133.00662422626101; height=140.34139961398705}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:140",
+                          "name": "chart_color-2",
+                          "type": "GROUP",
+                          "box": "@{x=586.34680175781250; y=1640.7710184964435; width=24.468277329321381; height=71.361340266440493}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:144",
+                          "name": "chart_color-1",
+                          "type": "GROUP",
+                          "box": "@{x=539.32556152343750; y=1578.7718225406563; width=38.832668866574068; height=140.20081425436342}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:148",
+                          "name": "text",
+                          "type": "GROUP",
+                          "box": "@{x=483.45867919921875; y=1536.6734171479834; width=110.54399431615650; height=28.213276543925531}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:152",
+                      "name": "pencil",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 350,
+                        "y": 1367.0000883744906,
+                        "width": 507.2810455554609,
+                        "height": 507.08288403638653
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:153",
+                          "name": "glossy",
+                          "type": "GROUP",
+                          "box": "@{x=406.7385253906250; y=1424.3383895771894; width=393.80407494201972; height=392.40617897885568}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:168",
+                      "name": "arms",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 434.51708984375,
+                        "y": 1565.7218017578125,
+                        "width": 209.7318115234375,
+                        "height": 175.40406799316406
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:169",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=434.517089843750; y=1565.7218017578125; width=209.73181152343750; height=175.40406799316406}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:172",
+                          "name": "body",
+                          "type": "RECTANGLE",
+                          "box": "@{x=435.22665405273438; y=1385.4268798828125; width=259.30722045898438; height=709.92388916015625}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:173",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=421.83676147460938; y=1342.4475097656250; width=297.00543212890625; height=770.52288818359375}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "1:174",
+                  "name": "Group 8",
+                  "type": "GROUP",
+                  "box": {
+                    "x": 509.56121826171875,
+                    "y": 1382.8583984375,
+                    "width": 104.28599548339844,
+                    "height": 102.76614379882812
+                  },
+                  "fills": [],
+                  "strokes": [],
+                  "strokeWeight": 1,
+                  "effects": [],
+                  "children": [
+                    {
+                      "id": "1:175",
+                      "name": "mouth",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 548.5963134765625,
+                        "y": 1477.6533203125,
+                        "width": 24.16727638244629,
+                        "height": 7.971254348754883
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:176",
+                          "name": "mask",
+                          "type": "VECTOR",
+                          "box": "@{x=548.59631347656250; y=1477.65332031250; width=24.167276382446289; height=7.9712543487548828}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:177",
+                          "name": "inner",
+                          "type": "RECTANGLE",
+                          "box": "@{x=547.25750732421875; y=1474.66308593750; width=27.480930328369141; height=12.683506011962891}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:178",
+                          "name": "teeth",
+                          "type": "RECTANGLE",
+                          "box": "@{x=542.33001708984375; y=1475.0184326171875; width=36.641242980957031; height=6.6940736770629883}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:179",
+                      "name": "eyes",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 546.2086791992188,
+                        "y": 1454.031494140625,
+                        "width": 28.890209197998047,
+                        "height": 10.217267990112305
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:180",
+                          "name": "mask",
+                          "type": "RECTANGLE",
+                          "box": "@{x=546.20867919921875; y=1454.0314941406250; width=28.890209197998047; height=10.217267990112305}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:181",
+                          "name": "eyes",
+                          "type": "RECTANGLE",
+                          "box": "@{x=546.20867919921875; y=1454.0314941406250; width=28.890209197998047; height=10.217267990112305}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:182",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=543.39178466796875; y=1451.91894531250; width=34.879642486572266; height=14.445104598999023}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:183",
+                      "name": "eyebrows",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 540.2141723632812,
+                        "y": 1437.8209228515625,
+                        "width": 40.86907196044922,
+                        "height": 16.206701278686523
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:184",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=540.21417236328125; y=1437.8209228515625; width=40.869071960449219; height=16.206701278686523}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:187",
+                          "name": "eyebrows_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=542.32684326171875; y=1440.9879150390625; width=35.936603546142578; height=8.8079900741577148}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:188",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=540.21423339843750; y=1437.8186035156250; width=40.869071960449219; height=16.206701278686523}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:189",
+                      "name": "hair",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 512.02685546875,
+                        "y": 1382.8583984375,
+                        "width": 101.82037353515625,
+                        "height": 55.2081184387207
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:190",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=512.026855468750; y=1382.85839843750; width=101.82037353515625; height=55.208118438720703}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:193",
+                          "name": "hair_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=514.84289550781250; y=1384.270019531250; width=96.183265686035156; height=58.485054016113281}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:194",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=512.02795410156250; y=1382.85839843750; width=101.82037353515625; height=61.655933380126953}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    },
+                    {
+                      "id": "1:195",
+                      "name": "glasses",
+                      "type": "GROUP",
+                      "box": {
+                        "x": 509.56121826171875,
+                        "y": 1430.064697265625,
+                        "width": 101.46804809570312,
+                        "height": 45.09690856933594
+                      },
+                      "fills": [],
+                      "strokes": [],
+                      "strokeWeight": 1,
+                      "effects": [],
+                      "children": [
+                        {
+                          "id": "1:196",
+                          "name": "mask",
+                          "type": "GROUP",
+                          "box": "@{x=509.56121826171875; y=1430.0646972656250; width=101.46804809570312; height=45.096908569335938}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:199",
+                          "name": "glasses_glossy",
+                          "type": "RECTANGLE",
+                          "box": "@{x=512.72546386718750; y=1433.5900878906250; width=96.535568237304688; height=40.516757965087891}",
+                          "strokeWeight": 1
+                        },
+                        {
+                          "id": "1:200",
+                          "name": "color",
+                          "type": "RECTANGLE",
+                          "box": "@{x=509.56204223632812; y=1430.0645751953125; width=101.46804809570312; height=45.096908569335938}",
+                          "strokeWeight": 1
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:201",
+          "name": "For Creators",
+          "type": "TEXT",
+          "box": {
+            "x": 459,
+            "y": 1144,
+            "width": 210,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 36,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "For Creators"
+        },
+        {
+          "id": "1:202",
+          "name": "Group 15",
+          "type": "GROUP",
+          "box": {
+            "x": 173,
+            "y": 3634,
+            "width": 644,
+            "height": 730
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:203",
+              "name": "Cryptocurrency adoption is at less than 1% of the global world population with some countries and entities actively fighting against its mass adoption and the smartest developers and nerds holding the fort. Bitcoin was the first, and it has since grown to thousands of tokens launched all aiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is to bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So down that even a celebrity can explain it in simple words to their followers and have them download an app, buy into the social currency of their favourite person and watch their investment as is with other cryptocurrency project. We are trying to do to this space what investment apps did for the \"nonexistent retail investors\". We are gamefying digital currency, bringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look.",
+              "type": "TEXT",
+              "box": {
+                "x": 173,
+                "y": 3708,
+                "width": 644,
+                "height": 344
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 300,
+                "letterSpacing": 0,
+                "lineHeightPx": 24,
+                "textAlignHorizontal": "LEFT"
+              },
+              "characters": "Cryptocurrency adoption is at less than 1% of the global world population with some countries\rand entities actively fighting against its mass adoption and the smartest developers and nerds\rholding the fort. \n\nBitcoin was the first, and it has since grown to thousands of tokens launched all\raiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is\rto bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So\rdown that even a celebrity can explain it in simple words to their followers and have them\rdownload an app, buy into the social currency of their favourite person and watch their\rinvestment as is with other cryptocurrency project. \n\nWe are trying to do to this space what\rinvestment apps did for the \"nonexistent retail investors\". We are gamefying digital currency,\rbringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look. "
+            },
+            {
+              "id": "1:204",
+              "name": "A new digital economy is coming. People would be just as powerful as countries and creators would be paid beyond the peanuts that conventional social media platforms can offer. There would be new markets and advertisers with little to offer would not find home there. Like Kanye said, \"Personalities would become the new currency, and services would be built on top of them\". Well, Kanye didn't exactly say that, but it sounds like something we hope he would say. Currency is digital, it has been that way for a while now, but this time there would be no dead presidents on the money, there would people like you on the money, and you would own it because it would make the most sense in the world.",
+              "type": "TEXT",
+              "box": {
+                "x": 173,
+                "y": 4092,
+                "width": 644,
+                "height": 272
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 300,
+                "letterSpacing": 0,
+                "lineHeightPx": 24,
+                "textAlignHorizontal": "LEFT"
+              },
+              "characters": "A new digital economy is coming. People would be just as powerful as countries and creators\rwould be paid beyond the peanuts that conventional social media platforms can offer. \n\nThere\rwould be new markets and advertisers with little to offer would not find home there. Like Kanye\rsaid, \"Personalities would become the new currency, and services would be built on top of them\".\rWell, Kanye didn't exactly say that, but it sounds like something we hope he would say.\r\n\nCurrency is digital, it has been that way for a while now, but this time there would be no dead\rpresidents on the money, there would people like you on the money, and you would own it\rbecause it would make the most sense in the world."
+            },
+            {
+              "id": "1:205",
+              "name": "Tokners is coming",
+              "type": "TEXT",
+              "box": {
+                "x": 173,
+                "y": 3634,
+                "width": 306,
+                "height": 54
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 36,
+                "fontWeight": 500,
+                "letterSpacing": 0,
+                "lineHeightPx": 54,
+                "textAlignHorizontal": "LEFT"
+              },
+              "characters": "Tokners is coming"
+            }
+          ]
+        },
+        {
+          "id": "1:206",
+          "name": "01",
+          "type": "TEXT",
+          "box": {
+            "x": 557,
+            "y": 1050,
+            "width": 14,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "01"
+        },
+        {
+          "id": "1:207",
+          "name": "Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted.",
+          "type": "TEXT",
+          "box": {
+            "x": 242,
+            "y": 1228,
+            "width": 644,
+            "height": 72
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 300,
+            "letterSpacing": 0,
+            "lineHeightPx": 24,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "Creators can gain independence through a decentralised digital currency system that is\rdependent on growing and engaging with the community and also their star power. They own\r10-15% of the total value of the tokens minted."
+        }
+      ]
+    },
+    {
+      "id": "1:208",
+      "name": "Group 11",
+      "type": "GROUP",
+      "box": {
+        "x": 970,
+        "y": 1010,
+        "width": 777,
+        "height": 930
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:209",
+          "name": "Rectangle 5",
+          "type": "RECTANGLE",
+          "box": {
+            "x": 970,
+            "y": 1010,
+            "width": 777,
+            "height": 930
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#f2f0f4",
+              "rgba": "rgba(242, 240, 244, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 25,
+          "effects": []
+        },
+        {
+          "id": "1:210",
+          "name": "Mask Group",
+          "type": "GROUP",
+          "box": {
+            "x": 970,
+            "y": 1010,
+            "width": 777,
+            "height": 930
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:211",
+              "name": "Rectangle 6",
+              "type": "RECTANGLE",
+              "box": {
+                "x": 970,
+                "y": 1010,
+                "width": 777,
+                "height": 930
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#f2f0f4",
+                  "rgba": "rgba(242, 240, 244, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "cornerRadius": 25,
+              "effects": []
+            },
+            {
+              "id": "1:212",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": -453.4193166551413,
+                "y": 1176.9998931699229,
+                "width": 2817.7625286761104,
+                "height": 1901.3365326113271
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#000000",
+                  "rgba": "rgba(0, 0, 0, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:213",
+              "name": "image 48",
+              "type": "RECTANGLE",
+              "box": {
+                "x": 1216,
+                "y": 1336,
+                "width": 806,
+                "height": 866
+              },
+              "fills": [
+                {
+                  "type": "IMAGE",
+                  "imageRef": "9a6f9c2795ca25049cafed8592833220e8c4ecd4"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            }
+          ]
+        },
+        {
+          "id": "1:214",
+          "name": "For Hodlers",
+          "type": "TEXT",
+          "box": {
+            "x": 1257,
+            "y": 1144,
+            "width": 197,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 36,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "For Hodlers"
+        },
+        {
+          "id": "1:215",
+          "name": "02",
+          "type": "TEXT",
+          "box": {
+            "x": 1348,
+            "y": 1050,
+            "width": 15,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 12,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "02"
+        },
+        {
+          "id": "1:216",
+          "name": "Holding social tokens allows the individual to gain access to benefits including unreleased content, private communities, direct access to celebrity, early-access to tickets and more as well as the ability to trade with other communities in order to gain access to more creator content with early token buyers being the biggest winners as the value of the token increases with more buyers.",
+          "type": "TEXT",
+          "box": {
+            "x": 1034,
+            "y": 1228,
+            "width": 644,
+            "height": 120
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 300,
+            "letterSpacing": 0,
+            "lineHeightPx": 24,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "Holding social tokens allows the individual to gain access to benefits including unreleased\rcontent, private communities, direct access to celebrity, early-access to tickets and more as well\ras the ability to trade with other communities in order to gain access to more creator content with\rearly token buyers being the biggest winners as the value of the token increases with more\rbuyers. "
+        }
+      ]
+    },
+    {
+      "id": "1:217",
+      "name": "What makes us different?",
+      "type": "TEXT",
+      "box": {
+        "x": 306,
+        "y": 2110,
+        "width": 356,
+        "height": 108
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#f7f5f9",
+          "rgba": "rgba(247, 245, 249, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 48,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "What makes us different?"
+    },
+    {
+      "id": "1:218",
+      "name": "Presale Details",
+      "type": "TEXT",
+      "box": {
+        "x": 793,
+        "y": 4872,
+        "width": 333,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#f7f5f9",
+          "rgba": "rgba(247, 245, 249, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 48,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "Presale Details"
+    },
+    {
+      "id": "1:219",
+      "name": "How to buy",
+      "type": "TEXT",
+      "box": {
+        "x": 862,
+        "y": 5701,
+        "width": 195,
+        "height": 54
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#f7f5f9",
+          "rgba": "rgba(247, 245, 249, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 36,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 54,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "How to buy"
+    },
+    {
+      "id": "1:220",
+      "name": "We would only launch tokens with the express permission of the creators.",
+      "type": "TEXT",
+      "box": {
+        "x": 837,
+        "y": 2124,
+        "width": 645,
+        "height": 20
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 20,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "We would only launch tokens with the express permission of the creators. "
+    },
+    {
+      "id": "1:221",
+      "name": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage.",
+      "type": "TEXT",
+      "box": {
+        "x": 571,
+        "y": 5785,
+        "width": 778,
+        "height": 20
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 20,
+        "textAlignHorizontal": "CENTER"
+      },
+      "characters": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage."
+    },
+    {
+      "id": "1:222",
+      "name": "chevron-right-ic",
+      "type": "INSTANCE",
+      "box": {
+        "x": 947.9999989509267,
+        "y": 5814.999998950927,
+        "width": 24.000001049073262,
+        "height": 24.000001049073035
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "I1:222;1:234",
+          "name": "chevron-right",
+          "type": "FRAME",
+          "box": {
+            "x": 947.9999989509267,
+            "y": 5814.999998950927,
+            "width": 24.000001049073262,
+            "height": 24.000001049073035
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "I1:222;1:235",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 953.9999997377316,
+                "y": 5823.9999994754635,
+                "width": 12.000000262268372,
+                "height": 6.000000524536517
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:223",
+      "name": "chevron-right-ic",
+      "type": "INSTANCE",
+      "box": {
+        "x": 947.9999989509267,
+        "y": 5878.999998950927,
+        "width": 24.000001049073262,
+        "height": 24.000001049073035
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "I1:223;1:234",
+          "name": "chevron-right",
+          "type": "FRAME",
+          "box": {
+            "x": 947.9999989509267,
+            "y": 5878.999998950927,
+            "width": 24.000001049073262,
+            "height": 24.000001049073035
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "I1:223;1:235",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 953.9999997377316,
+                "y": 5887.9999994754635,
+                "width": 12.000000262268372,
+                "height": 6.000000524536517
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:224",
+      "name": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",
+      "type": "TEXT",
+      "box": {
+        "x": 571,
+        "y": 5849,
+        "width": 778,
+        "height": 20
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 20,
+        "textAlignHorizontal": "CENTER"
+      },
+      "characters": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet"
+    },
+    {
+      "id": "1:225",
+      "name": "Then after you will received your $Tokners to your address within 24hours.",
+      "type": "TEXT",
+      "box": {
+        "x": 571,
+        "y": 5913,
+        "width": 778,
+        "height": 20
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "letterSpacing": 0,
+        "lineHeightPx": 20,
+        "textAlignHorizontal": "CENTER"
+      },
+      "characters": "Then after you will received your $Tokners to your address within 24hours. "
+    },
+    {
+      "id": "1:226",
+      "name": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. We would get them on our platform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity.",
+      "type": "TEXT",
+      "box": {
+        "x": 837,
+        "y": 2174,
+        "width": 600,
+        "height": 216
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 0,
+      "effects": [],
+      "style": {
+        "fontFamily": "Azo Sans",
+        "fontSize": 16,
+        "fontWeight": 300,
+        "letterSpacing": 0,
+        "lineHeightPx": 24,
+        "textAlignHorizontal": "LEFT"
+      },
+      "characters": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. \n\nWe would get them on our\rplatform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity."
+    },
+    {
+      "id": "201:10",
+      "name": "Group 26",
+      "type": "GROUP",
+      "box": {
+        "x": 174,
+        "y": 2878,
+        "width": 1270.4088134765625,
+        "height": 59.00000762939453
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:227",
+          "name": "Line 1",
+          "type": "VECTOR",
+          "box": {
+            "x": 179,
+            "y": 2882,
+            "width": 1265.4088134765625,
+            "height": 55.000007629396805
+          },
+          "fills": [],
+          "strokes": [
+            "#000000"
+          ],
+          "strokeWeight": 2,
+          "effects": []
+        },
+        {
+          "id": "1:228",
+          "name": "Ellipse 1",
+          "type": "ELLIPSE",
+          "box": {
+            "x": 173.9999996065975,
+            "y": 2877.9999996065976,
+            "width": 9.000000393402502,
+            "height": 9.000000393402388
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#22a75d",
+              "rgba": "rgba(34, 167, 93, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:229",
+          "name": "Ellipse 2",
+          "type": "ELLIPSE",
+          "box": {
+            "x": 573.9999996065975,
+            "y": 2877.9999996065976,
+            "width": 9.000000393402502,
+            "height": 9.000000393402388
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#22a75d",
+              "rgba": "rgba(34, 167, 93, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:230",
+          "name": "Ellipse 3",
+          "type": "ELLIPSE",
+          "box": {
+            "x": 969.9999996065975,
+            "y": 2877.9999996065976,
+            "width": 9.000000393402502,
+            "height": 9.000000393402388
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#22a75d",
+              "rgba": "rgba(34, 167, 93, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        },
+        {
+          "id": "1:231",
+          "name": "Ellipse 4",
+          "type": "ELLIPSE",
+          "box": {
+            "x": 1369.9999996065976,
+            "y": 2877.9999996065976,
+            "width": 9.000000393402388,
+            "height": 9.000000393402388
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#22a75d",
+              "rgba": "rgba(34, 167, 93, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": []
+        }
+      ]
+    },
+    {
+      "id": "1:232",
+      "name": "image 66",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1586,
+        "y": 2689.00007802248,
+        "width": 293.98673725128174,
+        "height": 231.85930490493774
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "85adaa0eb85bd05e4313e44231ea22360c17e72d"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:233",
+      "name": "chevron-right-ic",
+      "type": "COMPONENT",
+      "box": {
+        "x": 402,
+        "y": 2831,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:234",
+          "name": "chevron-right",
+          "type": "FRAME",
+          "box": {
+            "x": 402,
+            "y": 2831,
+            "width": 24,
+            "height": 24
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:235",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 411,
+                "y": 2837,
+                "width": 6,
+                "height": 12
+              },
+              "fills": [],
+              "strokes": [
+                "#4a4d61"
+              ],
+              "strokeWeight": 1.3333333730697632,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:236",
+      "name": "chevron-right-ic",
+      "type": "INSTANCE",
+      "box": {
+        "x": 801,
+        "y": 2831,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "I1:236;1:234",
+          "name": "chevron-right",
+          "type": "FRAME",
+          "box": {
+            "x": 801,
+            "y": 2831,
+            "width": 24,
+            "height": 24
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "I1:236;1:235",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 810,
+                "y": 2837,
+                "width": 6,
+                "height": 12
+              },
+              "fills": [],
+              "strokes": [
+                "#4a4d61"
+              ],
+              "strokeWeight": 1.3333333730697632,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:237",
+      "name": "chevron-right-ic",
+      "type": "INSTANCE",
+      "box": {
+        "x": 1200,
+        "y": 2831,
+        "width": 24,
+        "height": 24
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "I1:237;1:234",
+          "name": "chevron-right",
+          "type": "FRAME",
+          "box": {
+            "x": 1200,
+            "y": 2831,
+            "width": 24,
+            "height": 24
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "I1:237;1:235",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 1209,
+                "y": 2837,
+                "width": 6,
+                "height": 12
+              },
+              "fills": [],
+              "strokes": [
+                "#4a4d61"
+              ],
+              "strokeWeight": 1.3333333730697632,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:238",
+      "name": "image 29",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1404,
+        "y": 4052,
+        "width": 371,
+        "height": 237
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "973bb7c0fd05909ea9541d7c0e1f81cfd1c3513d"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:239",
+      "name": "image 28",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1067,
+        "y": 3634,
+        "width": 230,
+        "height": 147
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "973bb7c0fd05909ea9541d7c0e1f81cfd1c3513d"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1.259615421295166,
+      "effects": []
+    },
+    {
+      "id": "1:240",
+      "name": "Rectangle 7",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 173,
+        "y": 4966,
+        "width": 511,
+        "height": 585
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 25,
+      "effects": []
+    },
+    {
+      "id": "1:241",
+      "name": "Rectangle 9",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1235,
+        "y": 4966,
+        "width": 511,
+        "height": 585
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 25,
+      "effects": []
+    },
+    {
+      "id": "1:242",
+      "name": "Group 17",
+      "type": "GROUP",
+      "box": {
+        "x": 264,
+        "y": 5023,
+        "width": 1401,
+        "height": 351
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:243",
+          "name": "Phase One",
+          "type": "TEXT",
+          "box": {
+            "x": 347,
+            "y": 5136,
+            "width": 162,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 32,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "Phase One"
+        },
+        {
+          "id": "1:244",
+          "name": "01",
+          "type": "TEXT",
+          "box": {
+            "x": 264,
+            "y": 5023,
+            "width": 330,
+            "height": 288
+          },
+          "fills": [],
+          "strokes": [
+            "#191b21"
+          ],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 288,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 288,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "01"
+        },
+        {
+          "id": "1:245",
+          "name": "03",
+          "type": "TEXT",
+          "box": {
+            "x": 1319,
+            "y": 5023,
+            "width": 346,
+            "height": 288
+          },
+          "fills": [],
+          "strokes": [
+            "#191b21"
+          ],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 288,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 288,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "03"
+        },
+        {
+          "id": "1:246",
+          "name": "0/04/2021 - 16/04/2021",
+          "type": "TEXT",
+          "box": {
+            "x": 336,
+            "y": 5194,
+            "width": 185,
+            "height": 20
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 20,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "0/04/2021 - 16/04/2021"
+        },
+        {
+          "id": "1:247",
+          "name": "Group 16",
+          "type": "GROUP",
+          "box": {
+            "x": 313,
+            "y": 5284,
+            "width": 231,
+            "height": 90
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:248",
+              "name": "Soft cap: 5000 BNB",
+              "type": "TEXT",
+              "box": {
+                "x": 356,
+                "y": 5324,
+                "width": 145,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "Soft cap: 5000 BNB"
+            },
+            {
+              "id": "1:249",
+              "name": "Hard cap: 10000 BNB",
+              "type": "TEXT",
+              "box": {
+                "x": 348,
+                "y": 5354,
+                "width": 160,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "Hard cap: 10000 BNB"
+            },
+            {
+              "id": "1:250",
+              "name": "1 BNB = 100000 Tokners",
+              "type": "TEXT",
+              "box": {
+                "x": 313,
+                "y": 5284,
+                "width": 231,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 20,
+                "fontWeight": 500,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "1 BNB = 100000 Tokners"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:251",
+      "name": "Group 19",
+      "type": "GROUP",
+      "box": {
+        "x": 1375,
+        "y": 5136,
+        "width": 231,
+        "height": 238
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "rectangleCornerRadii": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "effects": [],
+      "children": [
+        {
+          "id": "1:252",
+          "name": "Phase Three",
+          "type": "TEXT",
+          "box": {
+            "x": 1397,
+            "y": 5136,
+            "width": 186,
+            "height": 54
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 32,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 54,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "Phase Three"
+        },
+        {
+          "id": "1:253",
+          "name": "0/04/2021 - 16/04/2021",
+          "type": "TEXT",
+          "box": {
+            "x": 1398,
+            "y": 5194,
+            "width": 185,
+            "height": 20
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#191b21",
+              "rgba": "rgba(25, 27, 33, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 16,
+            "fontWeight": 500,
+            "letterSpacing": 0,
+            "lineHeightPx": 20,
+            "textAlignHorizontal": "CENTER"
+          },
+          "characters": "0/04/2021 - 16/04/2021"
+        },
+        {
+          "id": "1:254",
+          "name": "Group 16",
+          "type": "GROUP",
+          "box": {
+            "x": 1375,
+            "y": 5284,
+            "width": 231,
+            "height": 90
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:255",
+              "name": "Soft cap: 5000 BNB",
+              "type": "TEXT",
+              "box": {
+                "x": 1418,
+                "y": 5324,
+                "width": 145,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "Soft cap: 5000 BNB"
+            },
+            {
+              "id": "1:256",
+              "name": "Hard cap: 10000 BNB",
+              "type": "TEXT",
+              "box": {
+                "x": 1410,
+                "y": 5354,
+                "width": 160,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 400,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "Hard cap: 10000 BNB"
+            },
+            {
+              "id": "1:257",
+              "name": "1 BNB = 100000 Tokners",
+              "type": "TEXT",
+              "box": {
+                "x": 1375,
+                "y": 5284,
+                "width": 231,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 20,
+                "fontWeight": 500,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "1 BNB = 100000 Tokners"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:258",
+      "name": "Group 20",
+      "type": "GROUP",
+      "box": {
+        "x": 703.9998168945312,
+        "y": 5025.9990234375,
+        "width": 511,
+        "height": 585
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "cornerRadius": 25,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:259",
+          "name": "Rectangle 8",
+          "type": "RECTANGLE",
+          "box": {
+            "x": 703.9998168945312,
+            "y": 5025.9990234375,
+            "width": 511,
+            "height": 585
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "cornerRadius": 25,
+          "effects": []
+        },
+        {
+          "id": "1:260",
+          "name": "02",
+          "type": "TEXT",
+          "box": {
+            "x": 786.9999389648438,
+            "y": 5082.9990234375,
+            "width": 349,
+            "height": 288
+          },
+          "fills": [],
+          "strokes": [
+            "#191b21"
+          ],
+          "strokeWeight": 1,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 288,
+            "fontWeight": 700,
+            "letterSpacing": 0,
+            "lineHeightPx": 288,
+            "textAlignHorizontal": "LEFT"
+          },
+          "characters": "02"
+        },
+        {
+          "id": "1:261",
+          "name": "Group 18",
+          "type": "GROUP",
+          "box": {
+            "x": 845,
+            "y": 5195.9990234375,
+            "width": 231,
+            "height": 238
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "rectangleCornerRadii": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "effects": [],
+          "children": [
+            {
+              "id": "1:262",
+              "name": "Phase Two",
+              "type": "TEXT",
+              "box": {
+                "x": 879,
+                "y": 5195.9990234375,
+                "width": 161,
+                "height": 54
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 32,
+                "fontWeight": 500,
+                "letterSpacing": 0,
+                "lineHeightPx": 54,
+                "textAlignHorizontal": "LEFT"
+              },
+              "characters": "Phase Two"
+            },
+            {
+              "id": "1:263",
+              "name": "0/04/2021 - 16/04/2021",
+              "type": "TEXT",
+              "box": {
+                "x": 868,
+                "y": 5253.9990234375,
+                "width": 185,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#191b21",
+                  "rgba": "rgba(25, 27, 33, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 0,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 16,
+                "fontWeight": 500,
+                "letterSpacing": 0,
+                "lineHeightPx": 20,
+                "textAlignHorizontal": "CENTER"
+              },
+              "characters": "0/04/2021 - 16/04/2021"
+            },
+            {
+              "id": "1:264",
+              "name": "Group 16",
+              "type": "GROUP",
+              "box": {
+                "x": 845,
+                "y": 5343.9990234375,
+                "width": 231,
+                "height": 90
+              },
+              "fills": [],
+              "strokes": [],
+              "strokeWeight": 1,
+              "rectangleCornerRadii": [
+                0,
+                0,
+                0,
+                0
+              ],
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:265",
+                  "name": "Soft cap: 5000 BNB",
+                  "type": "TEXT",
+                  "box": {
+                    "x": 888,
+                    "y": 5383.9990234375,
+                    "width": 145,
+                    "height": 20
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#191b21",
+                      "rgba": "rgba(25, 27, 33, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0,
+                  "effects": [],
+                  "style": {
+                    "fontFamily": "Azo Sans",
+                    "fontSize": 16,
+                    "fontWeight": 400,
+                    "letterSpacing": 0,
+                    "lineHeightPx": 20,
+                    "textAlignHorizontal": "CENTER"
+                  },
+                  "characters": "Soft cap: 5000 BNB"
+                },
+                {
+                  "id": "1:266",
+                  "name": "Hard cap: 10000 BNB",
+                  "type": "TEXT",
+                  "box": {
+                    "x": 880,
+                    "y": 5413.9990234375,
+                    "width": 160,
+                    "height": 20
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#191b21",
+                      "rgba": "rgba(25, 27, 33, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0,
+                  "effects": [],
+                  "style": {
+                    "fontFamily": "Azo Sans",
+                    "fontSize": 16,
+                    "fontWeight": 400,
+                    "letterSpacing": 0,
+                    "lineHeightPx": 20,
+                    "textAlignHorizontal": "CENTER"
+                  },
+                  "characters": "Hard cap: 10000 BNB"
+                },
+                {
+                  "id": "1:267",
+                  "name": "1 BNB = 100000 Tokners",
+                  "type": "TEXT",
+                  "box": {
+                    "x": 845,
+                    "y": 5343.9990234375,
+                    "width": 231,
+                    "height": 20
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#191b21",
+                      "rgba": "rgba(25, 27, 33, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 0,
+                  "effects": [],
+                  "style": {
+                    "fontFamily": "Azo Sans",
+                    "fontSize": 20,
+                    "fontWeight": 500,
+                    "letterSpacing": 0,
+                    "lineHeightPx": 20,
+                    "textAlignHorizontal": "CENTER"
+                  },
+                  "characters": "1 BNB = 100000 Tokners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:268",
+      "name": "image 67",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 537,
+        "y": 5221,
+        "width": 249,
+        "height": 442
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "cc84592360498ade63841ca7976302328f1e51d2"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:269",
+      "name": "look_mob-4 1",
+      "type": "RECTANGLE",
+      "box": {
+        "x": 1109,
+        "y": 5217,
+        "width": 260,
+        "height": 451
+      },
+      "fills": [
+        {
+          "type": "IMAGE",
+          "imageRef": "bf1c2b7658daf5851e3dbb3ac948b647e2973773"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": []
+    },
+    {
+      "id": "1:270",
+      "name": "logo_colored_sign_black_text",
+      "type": "FRAME",
+      "box": {
+        "x": 173,
+        "y": 6404,
+        "width": 219,
+        "height": 35
+      },
+      "fills": [
+        {
+          "type": "SOLID",
+          "color": "#ffffff",
+          "rgba": "rgba(255, 255, 255, 1)"
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:271",
+          "name": "Group 3",
+          "type": "GROUP",
+          "box": {
+            "x": 173,
+            "y": 6404.5,
+            "width": 55.31541061401367,
+            "height": 34.49993133544922
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:272",
+              "name": "Vector 1",
+              "type": "VECTOR",
+              "box": {
+                "x": 173,
+                "y": 6416.44970703125,
+                "width": 21.393739700317383,
+                "height": 22.55015754699707
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(98, 117, 246, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(130, 232, 254, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:273",
+              "name": "Vector 3",
+              "type": "VECTOR",
+              "box": {
+                "x": 194.393798828125,
+                "y": 6410.66748046875,
+                "width": 22.164684295654297,
+                "height": 28.33224868774414
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(195, 26, 98, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(239, 8, 32, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:274",
+              "name": "Vector 2",
+              "type": "VECTOR",
+              "box": {
+                "x": 183.9859390258789,
+                "y": 6410.66748046875,
+                "width": 20.815528869628906,
+                "height": 28.33224868774414
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(140, 49, 162, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(191, 27, 102, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:275",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 183.98599243164062,
+                "y": 6426.8203125,
+                "width": 10.407764434814453,
+                "height": 12.179570198059082
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(98, 112, 244, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(132, 235, 253, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:276",
+              "name": "Vector 4",
+              "type": "VECTOR",
+              "box": {
+                "x": 205.95799255371094,
+                "y": 6404.5,
+                "width": 22.357421875,
+                "height": 34.499813079833984
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(248, 230, 76, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(235, 62, 73, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            },
+            {
+              "id": "1:277",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 205.95797729492188,
+                "y": 6425.076171875,
+                "width": 10.600502014160156,
+                "height": 13.923575401306152
+              },
+              "fills": [
+                {
+                  "type": "GRADIENT_LINEAR",
+                  "stops": [
+                    {
+                      "pos": 0,
+                      "color": "rgba(255, 52, 76, 1)"
+                    },
+                    {
+                      "pos": 1,
+                      "color": "rgba(255, 111, 91, 1)"
+                    }
+                  ]
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": []
+            }
+          ]
+        },
+        {
+          "id": "1:278",
+          "name": "Tokners",
+          "type": "VECTOR",
+          "box": {
+            "x": 237.39151000976562,
+            "y": 6413.33349609375,
+            "width": 148.68585205078125,
+            "height": 25.666667938232422
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0.8557074069976807,
+          "effects": []
+        }
+      ]
+    },
+    {
+      "id": "1:279",
+      "name": "Group 23",
+      "type": "GROUP",
+      "box": {
+        "x": 785,
+        "y": 6397,
+        "width": 350,
+        "height": 50
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:280",
+          "name": "Group 15",
+          "type": "GROUP",
+          "box": {
+            "x": 785,
+            "y": 6397,
+            "width": 290,
+            "height": 50
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:281",
+              "name": "Ellipse 13",
+              "type": "ELLIPSE",
+              "box": {
+                "x": 905,
+                "y": 6397,
+                "width": 50,
+                "height": 50
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            },
+            {
+              "id": "1:282",
+              "name": "Ellipse 16",
+              "type": "ELLIPSE",
+              "box": {
+                "x": 965,
+                "y": 6397,
+                "width": 50,
+                "height": 50
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            },
+            {
+              "id": "1:283",
+              "name": "Ellipse 17",
+              "type": "ELLIPSE",
+              "box": {
+                "x": 1025,
+                "y": 6397,
+                "width": 50,
+                "height": 50
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            },
+            {
+              "id": "1:284",
+              "name": "Ellipse 14",
+              "type": "ELLIPSE",
+              "box": {
+                "x": 845,
+                "y": 6397,
+                "width": 50,
+                "height": 50
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            },
+            {
+              "id": "1:285",
+              "name": "Ellipse 15",
+              "type": "ELLIPSE",
+              "box": {
+                "x": 785,
+                "y": 6397,
+                "width": 50,
+                "height": 50
+              },
+              "fills": [],
+              "strokes": [
+                "#ffffff"
+              ],
+              "strokeWeight": 2,
+              "effects": []
+            },
+            {
+              "id": "1:286",
+              "name": "instagram (1) 1",
+              "type": "FRAME",
+              "box": {
+                "x": 920,
+                "y": 6412,
+                "width": 20,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#425376",
+                  "rgba": "rgba(66, 83, 118, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:287",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 921.6666870117188,
+                    "y": 6413.66650390625,
+                    "width": 16.66666603088379,
+                    "height": 16.666667938232422
+                  },
+                  "fills": [],
+                  "strokes": [
+                    "#ffffff"
+                  ],
+                  "strokeWeight": 2,
+                  "effects": []
+                },
+                {
+                  "id": "1:288",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 926.7026977539062,
+                    "y": 6418.630859375,
+                    "width": 6.666672706604004,
+                    "height": 6.666672229766846
+                  },
+                  "fills": [],
+                  "strokes": [
+                    "#ffffff"
+                  ],
+                  "strokeWeight": 2,
+                  "effects": []
+                },
+                {
+                  "id": "1:289",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 934.5833129882812,
+                    "y": 6417.41650390625,
+                    "width": 0.008332252502441406,
+                    "height": 0
+                  },
+                  "fills": [],
+                  "strokes": [
+                    "#ffffff"
+                  ],
+                  "strokeWeight": 2,
+                  "effects": []
+                }
+              ]
+            },
+            {
+              "id": "1:290",
+              "name": "github 1",
+              "type": "FRAME",
+              "box": {
+                "x": 1040,
+                "y": 6412,
+                "width": 20,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#425376",
+                  "rgba": "rgba(66, 83, 118, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:291",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 1040,
+                    "y": 6412.4169921875,
+                    "width": 20,
+                    "height": 19.166954040527344
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#ffffff",
+                      "rgba": "rgba(255, 255, 255, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 21.33333396911621,
+                  "effects": []
+                }
+              ]
+            },
+            {
+              "id": "1:292",
+              "name": "twitter (2) 1",
+              "type": "FRAME",
+              "box": {
+                "x": 800,
+                "y": 6412,
+                "width": 20,
+                "height": 20
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#425376",
+                  "rgba": "rgba(66, 83, 118, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:293",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 800.8333129882812,
+                    "y": 6414.49169921875,
+                    "width": 18.333332061767578,
+                    "height": 14.953067779541016
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#ffffff",
+                      "rgba": "rgba(255, 255, 255, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 2,
+                  "effects": []
+                }
+              ]
+            },
+            {
+              "id": "1:294",
+              "name": "facebook (4) 1",
+              "type": "FRAME",
+              "box": {
+                "x": 859,
+                "y": 6411,
+                "width": 22,
+                "height": 22
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#425376",
+                  "rgba": "rgba(66, 83, 118, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "children": [
+                {
+                  "id": "1:295",
+                  "name": "Vector",
+                  "type": "VECTOR",
+                  "box": {
+                    "x": 860,
+                    "y": 6414,
+                    "width": 20,
+                    "height": 16.667156219482422
+                  },
+                  "fills": [
+                    {
+                      "type": "SOLID",
+                      "color": "#ffffff",
+                      "rgba": "rgba(255, 255, 255, 1)"
+                    }
+                  ],
+                  "strokes": [],
+                  "strokeWeight": 21.33333396911621,
+                  "effects": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1:296",
+          "name": "Ellipse 17",
+          "type": "ELLIPSE",
+          "box": {
+            "x": 1085,
+            "y": 6397,
+            "width": 50,
+            "height": 50
+          },
+          "fills": [],
+          "strokes": [
+            "#ffffff"
+          ],
+          "strokeWeight": 2,
+          "effects": []
+        },
+        {
+          "id": "1:297",
+          "name": "reddit 1",
+          "type": "FRAME",
+          "box": {
+            "x": 1100,
+            "y": 6412,
+            "width": 20,
+            "height": 20
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:298",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 1100,
+                "y": 6412.4169921875,
+                "width": 20.000032424926758,
+                "height": 19.166667938232422
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#ffffff",
+                  "rgba": "rgba(255, 255, 255, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 21.33333396911621,
+              "effects": []
+            }
+          ]
+        },
+        {
+          "id": "1:299",
+          "name": "medium 1",
+          "type": "FRAME",
+          "box": {
+            "x": 980,
+            "y": 6412,
+            "width": 20,
+            "height": 20
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:300",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 980,
+                "y": 6414.0830078125,
+                "width": 20,
+                "height": 15.833333969116211
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#ffffff",
+                  "rgba": "rgba(255, 255, 255, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 21.33333396911621,
+              "effects": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1:301",
+      "name": "Group 22",
+      "type": "GROUP",
+      "box": {
+        "x": 1317,
+        "y": 6400,
+        "width": 430,
+        "height": 44
+      },
+      "fills": [],
+      "strokes": [],
+      "strokeWeight": 1,
+      "effects": [],
+      "children": [
+        {
+          "id": "1:302",
+          "name": "Group 21",
+          "type": "GROUP",
+          "box": {
+            "x": 1599,
+            "y": 6422,
+            "width": 148,
+            "height": 22
+          },
+          "fills": [],
+          "strokes": [],
+          "strokeWeight": 1,
+          "effects": [],
+          "children": [
+            {
+              "id": "1:303",
+              "name": "Design by Oleg Kulik",
+              "type": "TEXT",
+              "box": {
+                "x": 1626,
+                "y": 6425,
+                "width": 121,
+                "height": 17
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#ffffff",
+                  "rgba": "rgba(255, 255, 255, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 1,
+              "effects": [],
+              "style": {
+                "fontFamily": "Azo Sans",
+                "fontSize": 12,
+                "fontWeight": 500,
+                "letterSpacing": 0.24,
+                "lineHeightPx": 16.799999237060547,
+                "textAlignHorizontal": "RIGHT"
+              },
+              "characters": "Design by Oleg Kulik"
+            },
+            {
+              "id": "1:304",
+              "name": "Vector",
+              "type": "VECTOR",
+              "box": {
+                "x": 1599,
+                "y": 6422,
+                "width": 21,
+                "height": 22
+              },
+              "fills": [
+                {
+                  "type": "SOLID",
+                  "color": "#ffffff",
+                  "rgba": "rgba(255, 255, 255, 1)"
+                }
+              ],
+              "strokes": [],
+              "strokeWeight": 5,
+              "effects": []
+            }
+          ]
+        },
+        {
+          "id": "1:305",
+          "name": "© 2021 Tokners. All rights reserved.",
+          "type": "TEXT",
+          "box": {
+            "x": 1317,
+            "y": 6400,
+            "width": 430,
+            "height": 22
+          },
+          "fills": [
+            {
+              "type": "SOLID",
+              "color": "#ffffff",
+              "rgba": "rgba(255, 255, 255, 1)"
+            }
+          ],
+          "strokes": [],
+          "strokeWeight": 0,
+          "effects": [],
+          "style": {
+            "fontFamily": "Azo Sans",
+            "fontSize": 14,
+            "fontWeight": 400,
+            "letterSpacing": 0,
+            "lineHeightPx": 22,
+            "textAlignHorizontal": "RIGHT"
+          },
+          "characters": "© 2021 Tokners. All rights reserved."
+        }
+      ]
+    }
+  ]
+}

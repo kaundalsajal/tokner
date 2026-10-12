@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { background: #333; margin: 40px; }
+    .card-wrap {
+      display: flex;
+      gap: 40px;
+    }
+    .box {
+      width: 500px;
+      height: 600px;
+      background: #f7f8fc;
+      border-radius: 28px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      position: relative;
+    }
+    .img-1 {
+      width: 440px;
+      position: absolute;
+      bottom: -60px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    .img-2 {
+      width: 440px;
+      position: absolute;
+      bottom: -40px;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  </style>
+</head>
+<body>
+  <div class="card-wrap">
+    <div class="box">
+      <h2>Card 1</h2>
+      <img src="../assets/card-1.png" class="img-1" />
+    </div>
+    <div class="box">
+      <h2>Card 2</h2>
+      <img src="../assets/card-2.svg" class="img-2" />
+    </div>
+  </div>
+</body>
+</html>

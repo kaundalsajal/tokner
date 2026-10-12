@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f0f0f0;
+      width: 1920px;
+      height: 1200px;
+      overflow: hidden;
+      position: relative;
+    }
+    .frame {
+      width: 1920px;
+      height: 1200px;
+      position: relative;
+      background: #ffffff;
+      overflow: hidden;
+    }
+    /* Let's try different positioning of hero layer 1, 2, 3 */
+    .layer-3 {
+      position: absolute;
+      top: 0;
+      right: 0;
+      pointer-events: none;
+      z-index: 1;
+    }
+    .layer-2 {
+      position: absolute;
+      top: 0;
+      right: 0;
+      pointer-events: none;
+      z-index: 2;
+    }
+    .layer-1 {
+      position: absolute;
+      top: 0;
+      right: 0;
+      pointer-events: none;
+      z-index: 3;
+    }
+  </style>
+</head>
+<body>
+  <div class="frame">
+    <img src="../assets/hero-layer-3.svg" class="layer-3" />
+    <img src="../assets/hero-layer-2.svg" class="layer-2" />
+    <img src="../assets/hero-layer-1.svg" class="layer-1" />
+  </div>
+</body>
+</html>

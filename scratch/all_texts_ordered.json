@@ -1,0 +1,1519 @@
+[
+  {
+    "text": "Sign Up",
+    "box": {
+      "x": 1766,
+      "y": 53,
+      "width": 88,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Sign Up"
+  },
+  {
+    "text": "Connect wallet",
+    "box": {
+      "x": 1314,
+      "y": 53,
+      "width": 127,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Connect wallet"
+  },
+  {
+    "text": "Tokens",
+    "box": {
+      "x": 1228,
+      "y": 53,
+      "width": 56,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Tokens"
+  },
+  {
+    "text": "Our team",
+    "box": {
+      "x": 1125,
+      "y": 53,
+      "width": 73,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Our team"
+  },
+  {
+    "text": "Lightpaper",
+    "box": {
+      "x": 1471,
+      "y": 53,
+      "width": 85,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Lightpaper"
+  },
+  {
+    "text": "Sign In",
+    "box": {
+      "x": 1656,
+      "y": 53,
+      "width": 51,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#ffffff",
+    "name": "Sign In"
+  },
+  {
+    "text": "At Tokners are",
+    "box": {
+      "x": 175,
+      "y": 285,
+      "width": 123,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 18,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "At Tokners are"
+  },
+  {
+    "text": "Reimagining social media through the power of the blockchain.",
+    "box": {
+      "x": 173,
+      "y": 344,
+      "width": 553,
+      "height": 162
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 48,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Reimagining social media through the power of the blockchain."
+  },
+  {
+    "text": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch\rtheir own digital currency by simply creating a profile with media content posted as Non fungible\rTokens that can be owned and traded on the Tokners network",
+    "box": {
+      "x": 173,
+      "y": 536,
+      "width": 511,
+      "height": 96
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "We are creating social media 3.0 with influencers, celebrities and creators being able to launch their own digital currency by simply creating a profile with media content posted as Non fungible Tokens that can be owned and traded on the Tokners network"
+  },
+  {
+    "text": "Learn More",
+    "box": {
+      "x": 202,
+      "y": 689,
+      "width": 88,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 700,
+      "letterSpacing": -0.28,
+      "lineHeightPx": 16.80000114440918,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#ffffff",
+    "name": "Learn More"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 557,
+      "y": 1050,
+      "width": 14,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "01"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 1348,
+      "y": 1050,
+      "width": 15,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "02"
+  },
+  {
+    "text": "For Creators",
+    "box": {
+      "x": 459,
+      "y": 1144,
+      "width": 210,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "For Creators"
+  },
+  {
+    "text": "For Hodlers",
+    "box": {
+      "x": 1257,
+      "y": 1144,
+      "width": 197,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "For Hodlers"
+  },
+  {
+    "text": "Creators can gain independence through a decentralised digital currency system that is\rdependent on growing and engaging with the community and also their star power. They own\r10-15% of the total value of the tokens minted.",
+    "box": {
+      "x": 242,
+      "y": 1228,
+      "width": 644,
+      "height": 72
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Creators can gain independence through a decentralised digital currency system that is dependent on growing and engaging with the community and also their star power. They own 10-15% of the total value of the tokens minted."
+  },
+  {
+    "text": "Holding social tokens allows the individual to gain access to benefits including unreleased\rcontent, private communities, direct access to celebrity, early-access to tickets and more as well\ras the ability to trade with other communities in order to gain access to more creator content with\rearly token buyers being the biggest winners as the value of the token increases with more\rbuyers. ",
+    "box": {
+      "x": 1034,
+      "y": 1228,
+      "width": 644,
+      "height": 120
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Holding social tokens allows the individual to gain access to benefits including unreleased content, private communities, direct access to celebrity, early-access to tickets and more as well as the ability to trade with other communities in order to gain access to more creator content with early token buyers being the biggest winners as the value of the token increases with more buyers."
+  },
+  {
+    "text": "What makes us different?",
+    "box": {
+      "x": 306,
+      "y": 2110,
+      "width": 356,
+      "height": 108
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 48,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#f7f5f9",
+    "name": "What makes us different?"
+  },
+  {
+    "text": "We would only launch tokens with the express permission of the creators. ",
+    "box": {
+      "x": 837,
+      "y": 2124,
+      "width": 645,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "We would only launch tokens with the express permission of the creators."
+  },
+  {
+    "text": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. \n\nWe would get them on our\rplatform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity.",
+    "box": {
+      "x": 837,
+      "y": 2174,
+      "width": 600,
+      "height": 216
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "There are several thousand celebrities and creators on twitter, tiktok, Instagram and YouTube with followings in the millions who we would be actively engaging before we go viral. We would get them on our platform and they would see the opportunity to create a fan driven digital economy where their digital content can be traded as NFTs and their most loyal fans can have the monetary value of their creator's currency increase significantly as they promote their digital currency across their channels while our native token holders benefit from the Tokners popularity."
+  },
+  {
+    "text": "Q1",
+    "box": {
+      "x": 173,
+      "y": 2781,
+      "width": 22,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#22a75d",
+    "name": "Q1"
+  },
+  {
+    "text": "Q2",
+    "box": {
+      "x": 571,
+      "y": 2781,
+      "width": 23,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#22a75d",
+    "name": "Q2"
+  },
+  {
+    "text": "Q3",
+    "box": {
+      "x": 970,
+      "y": 2781,
+      "width": 23,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#22a75d",
+    "name": "Q3"
+  },
+  {
+    "text": "Q4",
+    "box": {
+      "x": 1369,
+      "y": 2781,
+      "width": 24,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#22a75d",
+    "name": "Q4"
+  },
+  {
+    "text": "2021",
+    "box": {
+      "x": 173,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "2021"
+  },
+  {
+    "text": "2021",
+    "box": {
+      "x": 572,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "2021"
+  },
+  {
+    "text": "2021",
+    "box": {
+      "x": 971,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "2021"
+  },
+  {
+    "text": "2021",
+    "box": {
+      "x": 1370,
+      "y": 2818,
+      "width": 83,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "2021"
+  },
+  {
+    "text": "Team set-up\r\nLaunch of informational website",
+    "box": {
+      "x": 208,
+      "y": 2987,
+      "width": 332,
+      "height": 68
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Team set-up Launch of informational website"
+  },
+  {
+    "text": "Presale and exchange listings\r\nBlockchain development and launch\r\nLaunch of our MVP\r\nInfluencer agency partnerships\r\nMarketing and promotion ",
+    "box": {
+      "x": 606,
+      "y": 2987,
+      "width": 306,
+      "height": 170
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Presale and exchange listings Blockchain development and launch Launch of our MVP Influencer agency partnerships Marketing and promotion"
+  },
+  {
+    "text": "Mainstream partnerships\r\n500 active creator communities\r\n2Million active community members\r\nMore Marketing and promotion",
+    "box": {
+      "x": 1404,
+      "y": 2987,
+      "width": 310,
+      "height": 136
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 18,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Mainstream partnerships 500 active creator communities 2Million active community members More Marketing and promotion"
+  },
+  {
+    "text": "Celebrity, Creator and Influencer partnerships\r\nExpansion of creator communities on our platform\r\nMore Marketing and promotion",
+    "box": {
+      "x": 1005,
+      "y": 2987,
+      "width": 303,
+      "height": 142
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 18,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Celebrity, Creator and Influencer partnerships Expansion of creator communities on our platform More Marketing and promotion"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 173,
+      "y": 2989,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "01"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 571,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "01"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 1369,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "01"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 970,
+      "y": 2990,
+      "width": 14,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "01"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 173,
+      "y": 3023,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "02"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 571,
+      "y": 3023,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "02"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 1369,
+      "y": 3024,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "02"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 970,
+      "y": 3043,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "02"
+  },
+  {
+    "text": "03",
+    "box": {
+      "x": 571,
+      "y": 3057,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "03"
+  },
+  {
+    "text": "03",
+    "box": {
+      "x": 1369,
+      "y": 3058,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "03"
+  },
+  {
+    "text": "04",
+    "box": {
+      "x": 571,
+      "y": 3091,
+      "width": 16,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "04"
+  },
+  {
+    "text": "04",
+    "box": {
+      "x": 1369,
+      "y": 3092,
+      "width": 16,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "04"
+  },
+  {
+    "text": "03",
+    "box": {
+      "x": 970,
+      "y": 3097,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "03"
+  },
+  {
+    "text": "05",
+    "box": {
+      "x": 571,
+      "y": 3125,
+      "width": 15,
+      "height": 34
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 34,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#2278d4",
+    "name": "05"
+  },
+  {
+    "text": "Tokners is coming",
+    "box": {
+      "x": 173,
+      "y": 3634,
+      "width": 306,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Tokners is coming"
+  },
+  {
+    "text": "Cryptocurrency adoption is at less than 1% of the global world population with some countries\rand entities actively fighting against its mass adoption and the smartest developers and nerds\rholding the fort. \n\nBitcoin was the first, and it has since grown to thousands of tokens launched all\raiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is\rto bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So\rdown that even a celebrity can explain it in simple words to their followers and have them\rdownload an app, buy into the social currency of their favourite person and watch their\rinvestment as is with other cryptocurrency project. \n\nWe are trying to do to this space what\rinvestment apps did for the \"nonexistent retail investors\". We are gamefying digital currency,\rbringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look. ",
+    "box": {
+      "x": 173,
+      "y": 3708,
+      "width": 644,
+      "height": 344
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Cryptocurrency adoption is at less than 1% of the global world population with some countries and entities actively fighting against its mass adoption and the smartest developers and nerds holding the fort. Bitcoin was the first, and it has since grown to thousands of tokens launched all aiming to fix one problem or the other with some quite simply FOMOing the moment. Our goal is to bring mass adoption to the cryptocurrency space by dumbing it down. How far down? So down that even a celebrity can explain it in simple words to their followers and have them download an app, buy into the social currency of their favourite person and watch their investment as is with other cryptocurrency project. We are trying to do to this space what investment apps did for the \"nonexistent retail investors\". We are gamefying digital currency, bringing in popular faces instead of hard to understand projects to make it the norm and inadvertently being the \"gateway drug\" for a lot of people to finally give this space a real look."
+  },
+  {
+    "text": "A new digital economy is coming. People would be just as powerful as countries and creators\rwould be paid beyond the peanuts that conventional social media platforms can offer. \n\nThere\rwould be new markets and advertisers with little to offer would not find home there. Like Kanye\rsaid, \"Personalities would become the new currency, and services would be built on top of them\".\rWell, Kanye didn't exactly say that, but it sounds like something we hope he would say.\r\n\nCurrency is digital, it has been that way for a while now, but this time there would be no dead\rpresidents on the money, there would people like you on the money, and you would own it\rbecause it would make the most sense in the world.",
+    "box": {
+      "x": 173,
+      "y": 4092,
+      "width": 644,
+      "height": 272
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 300,
+      "letterSpacing": 0,
+      "lineHeightPx": 24,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "A new digital economy is coming. People would be just as powerful as countries and creators would be paid beyond the peanuts that conventional social media platforms can offer. There would be new markets and advertisers with little to offer would not find home there. Like Kanye said, \"Personalities would become the new currency, and services would be built on top of them\". Well, Kanye didn't exactly say that, but it sounds like something we hope he would say. Currency is digital, it has been that way for a while now, but this time there would be no dead presidents on the money, there would people like you on the money, and you would own it because it would make the most sense in the world."
+  },
+  {
+    "text": "Presale Details",
+    "box": {
+      "x": 793,
+      "y": 4872,
+      "width": 333,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 48,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#f7f5f9",
+    "name": "Presale Details"
+  },
+  {
+    "text": "01",
+    "box": {
+      "x": 264,
+      "y": 5023,
+      "width": 330,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 288,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "textAlignHorizontal": "LEFT"
+    },
+    "name": "01"
+  },
+  {
+    "text": "03",
+    "box": {
+      "x": 1319,
+      "y": 5023,
+      "width": 346,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 288,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "textAlignHorizontal": "LEFT"
+    },
+    "name": "03"
+  },
+  {
+    "text": "02",
+    "box": {
+      "x": 786.9999389648438,
+      "y": 5082.9990234375,
+      "width": 349,
+      "height": 288
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 288,
+      "fontWeight": 700,
+      "letterSpacing": 0,
+      "lineHeightPx": 288,
+      "textAlignHorizontal": "LEFT"
+    },
+    "name": "02"
+  },
+  {
+    "text": "Phase One",
+    "box": {
+      "x": 347,
+      "y": 5136,
+      "width": 162,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 32,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Phase One"
+  },
+  {
+    "text": "Phase Three",
+    "box": {
+      "x": 1397,
+      "y": 5136,
+      "width": 186,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 32,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Phase Three"
+  },
+  {
+    "text": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 336,
+      "y": 5194,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "0/04/2021 - 16/04/2021"
+  },
+  {
+    "text": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 1398,
+      "y": 5194,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "0/04/2021 - 16/04/2021"
+  },
+  {
+    "text": "Phase Two",
+    "box": {
+      "x": 879,
+      "y": 5195.9990234375,
+      "width": 161,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 32,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#191b21",
+    "name": "Phase Two"
+  },
+  {
+    "text": "0/04/2021 - 16/04/2021",
+    "box": {
+      "x": 868,
+      "y": 5253.9990234375,
+      "width": 185,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "0/04/2021 - 16/04/2021"
+  },
+  {
+    "text": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 313,
+      "y": 5284,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 20,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "1 BNB = 100000 Tokners"
+  },
+  {
+    "text": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 1375,
+      "y": 5284,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 20,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "1 BNB = 100000 Tokners"
+  },
+  {
+    "text": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 356,
+      "y": 5324,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Soft cap: 5000 BNB"
+  },
+  {
+    "text": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 1418,
+      "y": 5324,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Soft cap: 5000 BNB"
+  },
+  {
+    "text": "1 BNB = 100000 Tokners",
+    "box": {
+      "x": 845,
+      "y": 5343.9990234375,
+      "width": 231,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 20,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "1 BNB = 100000 Tokners"
+  },
+  {
+    "text": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 348,
+      "y": 5354,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Hard cap: 10000 BNB"
+  },
+  {
+    "text": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 1410,
+      "y": 5354,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Hard cap: 10000 BNB"
+  },
+  {
+    "text": "Soft cap: 5000 BNB",
+    "box": {
+      "x": 888,
+      "y": 5383.9990234375,
+      "width": 145,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Soft cap: 5000 BNB"
+  },
+  {
+    "text": "Hard cap: 10000 BNB",
+    "box": {
+      "x": 880,
+      "y": 5413.9990234375,
+      "width": 160,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#191b21",
+    "name": "Hard cap: 10000 BNB"
+  },
+  {
+    "text": "How to buy",
+    "box": {
+      "x": 862,
+      "y": 5701,
+      "width": 195,
+      "height": 54
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 36,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 54,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#f7f5f9",
+    "name": "How to buy"
+  },
+  {
+    "text": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage.",
+    "box": {
+      "x": 571,
+      "y": 5785,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#ffffff",
+    "name": "First Connect your Metamask or TrustWallet to the \"Connect Wallet\" on the Homepage."
+  },
+  {
+    "text": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet",
+    "box": {
+      "x": 571,
+      "y": 5849,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#ffffff",
+    "name": "Then send minimum of 0.1 BNB or maximum of 10 BNB to the Presale wallet"
+  },
+  {
+    "text": "Then after you will received your $Tokners to your address within 24hours. ",
+    "box": {
+      "x": 571,
+      "y": 5913,
+      "width": 778,
+      "height": 20
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "letterSpacing": 0,
+      "lineHeightPx": 20,
+      "textAlignHorizontal": "CENTER"
+    },
+    "color": "#ffffff",
+    "name": "Then after you will received your $Tokners to your address within 24hours."
+  },
+  {
+    "text": "Connect wallet",
+    "box": {
+      "x": 982,
+      "y": 6257,
+      "width": 145,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Connect wallet"
+  },
+  {
+    "text": "Tokens",
+    "box": {
+      "x": 778,
+      "y": 6257,
+      "width": 64,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Tokens"
+  },
+  {
+    "text": "Our team",
+    "box": {
+      "x": 555,
+      "y": 6257,
+      "width": 83,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Our team"
+  },
+  {
+    "text": "/",
+    "box": {
+      "x": 704,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "/"
+  },
+  {
+    "text": "/",
+    "box": {
+      "x": 908,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "/"
+  },
+  {
+    "text": "/",
+    "box": {
+      "x": 1193,
+      "y": 6257,
+      "width": 8,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "/"
+  },
+  {
+    "text": "Lightpaper",
+    "box": {
+      "x": 1267,
+      "y": 6257,
+      "width": 97,
+      "height": 19
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 16,
+      "fontWeight": 700,
+      "letterSpacing": -0.32,
+      "lineHeightPx": 19.200000762939453,
+      "textAlignHorizontal": "LEFT"
+    },
+    "color": "#ffffff",
+    "name": "Lightpaper"
+  },
+  {
+    "text": "© 2021 Tokners. All rights reserved.",
+    "box": {
+      "x": 1317,
+      "y": 6400,
+      "width": 430,
+      "height": 22
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "letterSpacing": 0,
+      "lineHeightPx": 22,
+      "textAlignHorizontal": "RIGHT"
+    },
+    "color": "#ffffff",
+    "name": "© 2021 Tokners. All rights reserved."
+  },
+  {
+    "text": "Design by Oleg Kulik",
+    "box": {
+      "x": 1626,
+      "y": 6425,
+      "width": 121,
+      "height": 17
+    },
+    "style": {
+      "fontFamily": "Azo Sans",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "letterSpacing": 0.24,
+      "lineHeightPx": 16.799999237060547,
+      "textAlignHorizontal": "RIGHT"
+    },
+    "color": "#ffffff",
+    "name": "Design by Oleg Kulik"
+  }
+]
